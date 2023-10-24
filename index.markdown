@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to my blog where I'll talk about various nerdy topics I'm passionnate about!
