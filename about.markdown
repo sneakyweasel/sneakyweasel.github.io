@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a french lead-dev that loves to code and learn new things. I'm currently working as a freelancer for generative AI and LLMs. I'm also a big fan of the [Rust](https://www.rust-lang.org/) programming language.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My various interests are:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Quantum physics
+- Machine learning
+- Generative art
+- Rust
+- Jewelry
+- 3D printing
+- 3D modeling
+- Ironman triathlon
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can check my [Github](https://github.com/sneakyweasel) for more info about my projects.

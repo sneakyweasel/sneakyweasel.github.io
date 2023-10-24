@@ -21,18 +21,19 @@
 title: Philippe Cochin
 email: philippe@cochin.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my GH pages space where I'll ramble about random dev things.
+  Welcome to my GH pages where I'll present my work and ramble about random dev things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://sneakyweasel.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: sneakyweasel.github.io
-url: https://sneakyweasel.github.io
 twitter_username: philippecochin
 github_username:  sneakyweasel
+linkedin_username: philippe-cochin-b4978231
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
