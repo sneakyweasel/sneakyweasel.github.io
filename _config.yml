@@ -30,11 +30,20 @@ github_username:  sneakyweasel
 linkedin_username: philippe-cochin-b4978231
 
 # Build settings
-theme: minima
-remote-theme: midnight
+# theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
+header_pages:
+  - ai.md
+  - quantum.md
+  - certifications.md
+  - about.md
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
