@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence
+title: AI
 permalink: /ai/
 ---
 
