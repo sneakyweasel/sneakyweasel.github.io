@@ -11,9 +11,9 @@ categories: AI
 - Ensuite nous verrons le fonctionnement de réseaux de neurones. (5-10 min)
 - Enfin nous verrons un exemple pratique d'utilisation d'un LLM. (5-10 min)
 
-## I - Automate logique
+## I - Automate de calcul
 
-### Logique
+### Logique fondamentale
 
 La logique est une science qui étudie les principes du raisonnement valide. Elle est fondamentale pour la philosophie, les mathématiques et l'informatique. Elle est fondée sur le principe de non-contradiction.
 La porte logique NAND est une porte universelle qui permet de construire toutes les autres portes logiques par combinaison.
@@ -46,12 +46,12 @@ En informatique théorique, une machine de Turing est un modèle abstrait du fon
 
 > NANDGAME: <https://www.nandgame.com/>
 
-### Matérialiser l'automate
+### Construire l'automate
 
 La découverte des jonctions P-N permet de construire de minuscules transistors en silicium. Ces transistors peuvent être assemblés en circuits intégrés qui permettent de construire un ordinateur.
 
 - Silicium: <https://fr.wikipedia.org/wiki/Silicium>
-- Jonction PNP: <https://fr.wikipedia.org/wiki/Jonction_p-n>
+- Jonction P-N (Pmos, Nmos): <https://fr.wikipedia.org/wiki/Jonction_p-n>
 - CMOS: <https://en.wikipedia.org/wiki/CMOS#Example:_NAND_gate_in_physical_layout>
 - Semi-conducteur: <https://fr.wikipedia.org/wiki/Semi-conducteur>
 - Transistor: <https://fr.wikipedia.org/wiki/Transistor>
@@ -60,7 +60,7 @@ La découverte des jonctions P-N permet de construire de minuscules transistors 
 
 > Minecraft CPU: <https://youtu.be/TxatLwlj0lU?si=aYUfTmiCIc7kXt56&t=34>
 
-### Course à la puissance
+### Multi-coeurs et parallélisme
 
 Au bout d'un certains temps, la miniaturisation des transistors et la vitesse de calcul atteignent des limites physiques. Il faut donc trouver d'autres moyens d'augmenter la puissance de calcul: vu qu'on ne peut plus augmenter la vitesse des processeurs on les duplique et on réparti la charge de travail sur les différents coeurs.
 
@@ -104,6 +104,8 @@ On s'inspire de la nature pour créer des réseaux de neurones artificiels.
 
 > Recap perceptron: <https://youtu.be/IHZwWFHWa-w?si=LE5qWstbH01bqKZO&t=29>
 
+> Backprop: <https://youtu.be/Ilg3gGewQ5U?si=4FssMbXM6CRK5rmQ&t=261>
+
 ### LLMS: Large Language Models
 
 Une des théories de l'apparition des facultés humaines est le détournement d'une partie de notre puissance de calcul visuelle vers la méta-cognition et les concepts abstraits.
@@ -130,5 +132,6 @@ Voici un exemple d'utilisation de GPT-4 pour créer un chatbot catholique qui en
 - PPO: <https://en.wikipedia.org/wiki/Proximal_Policy_Optimization>
 - RAG: <https://arxiv.org/abs/2104.05544>
 - Pré-prompt: <https://en.wikipedia.org/wiki/Prompt_engineering>
+- Biais religieux: <https://arxiv.org/pdf/2106.13219.pdf>
 
-> Biais religieux: <https://arxiv.org/pdf/2106.13219.pdf>
+> Biais dans les vecteurs: <https://wikipedia2vec.github.io/demo/>
