@@ -5,19 +5,15 @@ date:   2023-10-24 16:13:05 +0200
 categories: AI
 ---
 
-## Comment le métal pense?
-
-### Introduction
-
 - A la façon de la "Somme contre les gentils" de St Thomas, nous allons partir de fondements communs rationnels pour construire un automate logique.
 - Je vais tenter de démystifier le fonctionnement des LLMs (Large Language Models) en vous faisant revivre l'aventure intellectuelle qui va de la matière à l'IA.
 - Tout d'abord nous fabriquerons un ordinateur. (5-10 min)
 - Ensuite nous verrons le fonctionnement de réseaux de neurones. (5-10 min)
 - Enfin nous verrons un exemple pratique d'utilisation d'un LLM. (5-10 min)
 
-### I - Automate logique
+## I - Automate logique
 
-#### Logique
+### Logique
 
 La logique est une science qui étudie les principes du raisonnement valide. Elle est fondamentale pour la philosophie, les mathématiques et l'informatique. Elle est fondée sur le principe de non-contradiction.
 La porte logique NAND est une porte universelle qui permet de construire toutes les autres portes logiques par combinaison.
@@ -29,7 +25,7 @@ La porte logique NAND est une porte universelle qui permet de construire toutes 
 - Porte universelle (ET-NON): <https://fr.wikipedia.org/wiki/Fonction_NON-ET>
 - NAND: <https://www.nandgame.com/>
 
-#### De la porte universelle au processeur
+### De la porte universelle au processeur
 
 En informatique théorique, une machine de Turing est un modèle abstrait du fonctionnement des appareils mécaniques de calcul, tel un ordinateur.
 
@@ -49,9 +45,8 @@ En informatique théorique, une machine de Turing est un modèle abstrait du fon
 - Nand to Tetris: <https://www.nand2tetris.org/>
 
 > NANDGAME: <https://www.nandgame.com/>
-> Minecraft CPU: <https://youtu.be/TxatLwlj0lU?si=aYUfTmiCIc7kXt56&t=34>
 
-#### Matérialiser l'automate
+### Matérialiser l'automate
 
 La découverte des jonctions P-N permet de construire de minuscules transistors en silicium. Ces transistors peuvent être assemblés en circuits intégrés qui permettent de construire un ordinateur.
 
@@ -63,7 +58,9 @@ La découverte des jonctions P-N permet de construire de minuscules transistors 
 - Circuit intégré: <https://fr.wikipedia.org/wiki/Circuit_int%C3%A9gr%C3%A9>
 - Ordinateur 8-bits: <https://eater.net/8bit>
 
-#### Course à la puissance
+> Minecraft CPU: <https://youtu.be/TxatLwlj0lU?si=aYUfTmiCIc7kXt56&t=34>
+
+### Course à la puissance
 
 Au bout d'un certains temps, la miniaturisation des transistors et la vitesse de calcul atteignent des limites physiques. Il faut donc trouver d'autres moyens d'augmenter la puissance de calcul: vu qu'on ne peut plus augmenter la vitesse des processeurs on les duplique et on réparti la charge de travail sur les différents coeurs.
 
@@ -74,7 +71,7 @@ Au bout d'un certains temps, la miniaturisation des transistors et la vitesse de
 - Nvidia: <https://fr.wikipedia.org/wiki/Nvidia>
 - Langage de programmation GPU CUDA: <https://en.wikipedia.org/wiki/CUDA>
 
-#### Programmation et niveaux d'abstraction
+### Programmation et niveaux d'abstraction
 
 Nous avons désormais une machine capable d'exécuter d'impressionnantes quantités d'instructions de calcul en un temps record. Nous avons les moyens de la programmer à des niveaux d'abstraction élévés en utilisant des langages de programmation de haut niveau et des librairies de fonctions complexes.
 Nous controlons un nouveau type de rapport au langage: l'exécution en plus de la lecture et de l'écriture.
@@ -86,9 +83,9 @@ Nous controlons un nouveau type de rapport au langage: l'exécution en plus de l
 - Langage de haut niveau: <https://fr.wikipedia.org/wiki/Langage_de_haut_niveau>
 - Python: <https://fr.wikipedia.org/wiki/Python_(langage)>
 
-### II - Appréhender un monde incertain
+## II - Appréhender un monde incertain
 
-#### Réseaux de neurones et vision machine
+### Réseaux de neurones et vision machine
 
 Notre machine est déterministe, rapide et précise mais elle n'aime pas l'incertitude, l'ambiguité et l'approximation.
 On explore alors comment le cerveau humain arrive à appréhender le monde incertain qui nous entoure avec ses réseaux de neurones.
@@ -102,12 +99,12 @@ On s'inspire de la nature pour créer des réseaux de neurones artificiels.
 - Framework ML PyTorch: <https://pytorch.org/>
 - Visualisations DL: <https://distill.pub/>
 - 3B1B Neural network: <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
+- Cours 3B1B: <https://www.3blue1brown.com/lessons/neural-networks>
 - Cours DL: <https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome>
 
 > Recap perceptron: <https://youtu.be/IHZwWFHWa-w?si=LE5qWstbH01bqKZO&t=29>
-> 3B1B: <https://www.3blue1brown.com/lessons/neural-networks>
 
-#### LLMS: Large Language Models
+### LLMS: Large Language Models
 
 Une des théories de l'apparition des facultés humaines est le détournement d'une partie de notre puissance de calcul visuelle vers la méta-cognition et les concepts abstraits.
 Les LLMs sont des réseaux de neurones qui ont été entrainés sur de très grands corpus de données textuelles. Ils sont capables de générer du texte à partir d'un prompt.
