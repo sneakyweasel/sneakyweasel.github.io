@@ -32,6 +32,7 @@ En informatique théorique, une machine de Turing est un modèle abstrait du fon
 - Machine de Turing: <https://fr.wikipedia.org/wiki/Machine_de_Turing>
 - Turing Complete: <https://www.youtube.com/watch?v=-YY73ejihZo>
 - Nand to Tetris: <https://www.nand2tetris.org/>
+- Solutions nandgame: <https://github.com/Elidevin/nandgame.com-solutions/blob/master/Hardware.md>
 
 > NANDGAME: <https://www.nandgame.com/>
 
