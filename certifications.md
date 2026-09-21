@@ -6,12 +6,17 @@ permalink: /certifications/
 
 <style>
 .cert-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; margin: 0 0 32px; }
-.cert-card { display: flex; flex-direction: column; background: #222; border: 1px solid #333; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; }
-.cert-card:hover { border-color: #666; text-decoration: none; }
+.cert-card { display: flex; flex-direction: column; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; }
+.cert-card:hover { border-color: #8c959f; text-decoration: none; }
 .cert-card img { display: block; width: 100%; height: auto; }
 .cert-body { padding: 12px 14px 14px; font-size: 0.9em; line-height: 1.4; }
 .cert-title { font-weight: 600; margin: 0 0 4px; }
-.cert-meta { color: #aaa; margin: 0; }
+.cert-meta { color: #666; margin: 0; }
+@media (prefers-color-scheme: dark) {
+  .cert-card { background: #222; border-color: #333; }
+  .cert-card:hover { border-color: #666; }
+  .cert-meta { color: #aaa; }
+}
 </style>
 
 Two schools and a dozen certificates. The schools are where the jeweller and the philosopher come from. The certificates are courses I took to understand a field properly before working in it; each card is the certificate itself and links to its verifiable record on Coursera.
