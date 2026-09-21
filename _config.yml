@@ -1,9 +1,7 @@
 # Site settings. Templates read these as site.title, site.email, and so on.
 title: Philippe Cochin
 email: philippe@cochin.fr
-description: >-
-  Notes on AI, quantum physics and mathematics by Philippe Cochin, a Paris-based
-  lead dev / CTO freelancing on generative AI and LLMs.
+description: AI, quantum physics, mathematics, code and art. Philippe Cochin, Paris.
 baseurl: ""
 url: https://www.cochin.fr
 lang: en
