@@ -35,6 +35,7 @@ Feel free to [contact me](mailto: <philippe@cochin.fr>)!
 - Ironman triathlon (3.8km swim, 180km bike, 42km run) - Finisher Nice 2023
 - Thai boxing - French champion 2015 - Cat. Amateur Middleweight Assault - FFKMDA
 - Sailboat racing - Silver Medal 2007 - Cat. Grand Classique - Voiles de St Tropez
+- Chess - [Arena Candidate Master](https://ratings.fide.com/profile/351104660), FIDE Online Arena title (FIDE ID 351104660)
 
 ## 🏆 Awards, medals, TV, etc
 
