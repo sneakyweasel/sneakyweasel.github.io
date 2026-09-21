@@ -25,6 +25,9 @@ Feel free to [contact me](mailto:philippe@cochin.fr)!
 - Certified jewellery designer (École Boulle)
 - 3D modelling, 3D printing & CNC
 - Generative art
+- Music, released as [Small Warm Things](https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU) on Spotify:
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/2YJ2NTqTZXZ5J1jpjpnLgU?utm_source=generator&theme=0&si=6415d06c4c284279" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## 🌏 NGOs & associations
 

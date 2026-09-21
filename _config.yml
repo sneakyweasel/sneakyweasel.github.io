@@ -34,6 +34,9 @@ minima:
     - title: philippecochin on X
       icon: x-twitter
       url: "https://x.com/philippecochin"
+    - title: Small Warm Things on Spotify
+      icon: spotify
+      url: "https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU"
 
 plugins:
   - jekyll-feed
