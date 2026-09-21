@@ -4,13 +4,19 @@ title: Code
 permalink: /code/
 ---
 
-Most of what I make is code. My public work is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, from Ruby scripts for Project Euler to a Lean 4 formal layer.
+Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, mostly the research and side projects described on the other pages.
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
 
+## 🏗 Full-stack, in private repositories
+
+- **Two social networks**, built end to end, in Ruby on Rails and Django.
+- **A trading platform**, built end to end, in Laravel.
+- Client work in the same three frameworks, which is why they do not appear below: the repositories are private.
+
 ## 🧰 Languages
 
-By weight across my own repositories: Python first by far, then Lean 4, JavaScript and TypeScript with Vue, HTML and CSS, LaTeX, Jupyter notebooks, and smaller amounts of Rust, Ruby, C++, CUDA and GLSL. In practice: Python for research code, TypeScript and Vue for interfaces, Lean 4 with Mathlib for proofs, Rust when speed matters, CUDA when a search has to run on the GPU.
+Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and JavaScript on the client, SQL underneath. Across the public repositories, by byte weight: Python first by far, then Lean 4, JavaScript and TypeScript with Vue, HTML and CSS, LaTeX, Jupyter notebooks, and smaller amounts of Rust, Ruby, C++, CUDA and GLSL. In practice: Python for research code, TypeScript and Vue for interfaces, Lean 4 with Mathlib for proofs, Rust when speed matters, CUDA when a search has to run on the GPU.
 
 ## 🔢 Number theory and formal proof
 
