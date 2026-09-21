@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a french lead-dev / CTO that loves to code and learn new things. I'm currently working as a freelancer for generative AI and LLMs. I really enjoy complexity and I'm always looking for new challenges. I'm also a certified jewellery designer and an Ironman triathlete.
+I'm a french lead-dev / CTO that loves to code and learn new things. I'm currently working as a freelancer for generative AI and LLMs. I really enjoy complexity and I'm always looking for new challenges. On the mathematical side I maintain a [balanced ternary research laboratory](/math/) and contribute to the [OEIS](https://oeis.org/wiki/User:Philippe_Cochin). I'm also a certified jewellery designer and an Ironman triathlete.
 
 Feel free to [contact me](mailto: <philippe@cochin.fr>)!
 
 ## 🧙 Nerdy interests
 
 - Quantum physics & Quantum computing (CQT Singapore, IBM collab, MIT iQuHACK 2023)
+- Number theory & integer sequences (balanced ternary, the [Juggler map](/math/), OEIS contributor)
 - Machine learning & Deep learning
 - Philosophy & Theology (4 years of studies at ICP Paris)
 - Fullstack dev and competitive programming

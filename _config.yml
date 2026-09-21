@@ -40,6 +40,7 @@ plugins:
 header_pages:
   - ai.md
   - quantum.md
+  - math.md
   - certifications.md
   - about.md
 
