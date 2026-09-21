@@ -20,6 +20,7 @@ minima:
     - quantum.md
     - math.md
     - art.md
+    - code.md
     - certifications.md
     - about.md
   social_links:
