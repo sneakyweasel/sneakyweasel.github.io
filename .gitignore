@@ -9,3 +9,6 @@ vendor
 # A committed lock only drifted out of date and raised Dependabot alerts for
 # gems that are never installed. Run "bundle install" to resolve locally.
 Gemfile.lock
+
+# macOS Finder metadata
+.DS_Store
