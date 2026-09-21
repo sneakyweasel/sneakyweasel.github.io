@@ -19,6 +19,7 @@ minima:
     - ai.md
     - quantum.md
     - math.md
+    - art.md
     - certifications.md
     - about.md
   social_links:
@@ -37,6 +38,9 @@ minima:
     - title: Small Warm Things on Spotify
       icon: spotify
       url: "https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU"
+    - title: cochinjewellery on Instagram
+      icon: instagram
+      url: "https://www.instagram.com/cochinjewellery/"
 
 plugins:
   - jekyll-feed

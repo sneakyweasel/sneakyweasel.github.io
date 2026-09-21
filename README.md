@@ -5,7 +5,7 @@ Source of [www.cochin.fr](https://www.cochin.fr), Philippe Cochin's personal sit
 ## Layout
 
 - `index.md` - home page; the theme lists the posts below its text
-- `ai.md`, `quantum.md`, `math.md`, `certifications.md`, `about.md` - the header pages, in the order given by `minima.nav_pages` in `_config.yml`
+- `ai.md`, `quantum.md`, `math.md`, `art.md`, `certifications.md`, `about.md` - the header pages, in the order given by `minima.nav_pages` in `_config.yml`
 - `_posts/` - blog posts (conference notes, in English or French); the file name sets the URL, the front matter sets the date
 - `assets/images/` - images
 - `CNAME` - the custom domain
