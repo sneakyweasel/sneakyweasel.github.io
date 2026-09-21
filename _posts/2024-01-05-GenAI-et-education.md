@@ -3,6 +3,7 @@ layout: post
 title:  "Notes de conférence : genAI et éducation"
 date:   2024-01-05 16:13:05 +0200
 categories: AI
+excerpt: "Notes de conférence : ce qu'apprendre veut dire pour une machine, du perceptron aux IA génératives, à l'usage des enseignants."
 ---
 
 ## Intro

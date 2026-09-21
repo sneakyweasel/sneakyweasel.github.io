@@ -3,6 +3,7 @@ layout: post
 title:  "Narrowing: one measurement for jokes, songs and proofs"
 date:   2026-09-21 16:00:00 +0200
 categories: AI
+excerpt: "One number, the pointwise mutual information between a line and its setup, tested on jokes, three thousand songs, four thousand Lean proofs and an EEG rig."
 ---
 
 In September 2026 I spent a week measuring one number, and this post is what it turned out to be good for. It started as a question about joy, became a lyric scorer, was checked against human-rated jokes and three thousand real songs, and ended up pointed at four thousand machine-checked proofs and at my own brain.

@@ -3,6 +3,7 @@ layout: post
 title:  "Du silicium au langage : comment le métal pense ?"
 date:   2023-11-24 16:13:05 +0200
 categories: AI
+excerpt: "Notes de conférence : du transistor au LLM en trois étapes, l'automate, le réseau de neurones, le modèle de langage, avec les liens pour tout refaire soi-même."
 ---
 
 - À la façon de la "Somme contre les gentils" de St Thomas, nous allons partir de fondements communs rationnels pour construire un automate logique "pensant".

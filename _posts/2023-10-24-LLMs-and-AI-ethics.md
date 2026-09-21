@@ -3,6 +3,7 @@ layout: post
 title:  "LLMs and AI ethics"
 date:   2023-10-24 16:13:05 +0200
 categories: AI
+excerpt: "Notes from a talk to a panel of ethicists: why \"intelligence\" is the wrong word, what next-token prediction is and is not, and what a tailor-made religion would cost."
 ---
 
 I've been working on LLMs for a while now and I've been working with various high-level think tanks to try to understand the philosophical, moral and ethical implications of LLMs.
