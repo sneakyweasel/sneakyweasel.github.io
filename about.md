@@ -31,7 +31,7 @@ More on the [Art](/art/) page.
 - Co-founder of [Action Aide Asie](https://actionaideasie.com/), a medical NGO active in 7 South-East Asian countries
 - Co-founder of [Action Aide Afrique](https://www.actionaideafrique.com/), a medical NGO active in African countries
 - Member of [Amis des Malades](https://www.amisdesmalades.com/), a medical charity active in France
-- Member of [Mensa](https://www.mensa.org/)
+- Member of [Mensa](https://www.mensa.org/) France, member 13396
 
 ## 🏃 Sports
 
