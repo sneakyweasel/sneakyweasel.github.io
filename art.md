@@ -2,6 +2,7 @@
 layout: page
 title: Art
 permalink: /art/
+image: /assets/images/ring-blue-stone.webp
 ---
 
 Code is not the only thing I make. Two other things get finished and released: jewellery, and songs.
@@ -11,6 +12,8 @@ Feel free to [contact me](mailto:philippe@cochin.fr)!
 ## 💎 Jewellery
 
 I am a certified jeweller and designer, trained at the École Boulle in Paris. My pieces are on Instagram: [@cochinjewellery](https://www.instagram.com/cochinjewellery/).
+
+<img src="/assets/images/ring-blue-stone.webp" alt="A fluted silver ring with a blue stone, seen from four sides" width="100%" style="border-radius:12px;" loading="lazy">
 
 ## 🎵 Music
 
