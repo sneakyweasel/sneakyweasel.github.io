@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# GitHub Pages builds this site with the legacy builder, which uses its own
+# pinned gem set from the github-pages gem and never reads Gemfile.lock.
+# A committed lock only drifted out of date and raised Dependabot alerts for
+# gems that are never installed. Run "bundle install" to resolve locally.
+Gemfile.lock
