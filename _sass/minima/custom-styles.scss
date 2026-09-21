@@ -1,7 +1,6 @@
-// Site banner under the navigation: the still-life header, content width, whole image visible.
+// The still-life banner at the top of the landing page, content width, whole image visible.
 .site-banner {
-  padding-top: $spacing-unit * 0.5;
-  padding-bottom: 0;
+  margin-bottom: $spacing-unit;
 }
 .site-banner img {
   display: block;
