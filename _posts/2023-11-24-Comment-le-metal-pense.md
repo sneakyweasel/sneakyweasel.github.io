@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Du silicone au langage: comment le métal pense?"
+title:  "Du silicium au langage : comment le métal pense ?"
 date:   2023-11-24 16:13:05 +0200
 categories: AI
 ---
 
-- A la façon de la "Somme contre les gentils" de St Thomas, nous allons partir de fondements communs rationnels pour construire un automate logique "pensant".
+- À la façon de la "Somme contre les gentils" de St Thomas, nous allons partir de fondements communs rationnels pour construire un automate logique "pensant".
 - Je vais tenter de démystifier le fonctionnement des LLMs (Large Language Models) en vous faisant revivre l'aventure intellectuelle qui va de la matière à l'IA.
   - Tout d'abord nous fabriquerons un ordinateur.
   - Ensuite nous verrons le fonctionnement d'un réseau de neurones artificiel.
-  - Enfin nous le fonctionnement d'un LLM.
+  - Enfin nous verrons le fonctionnement d'un LLM.
 
 ## I - Automate de calcul
 
@@ -50,10 +50,10 @@ La découverte des jonctions P-N permet de construire de minuscules transistors 
 
 > Minecraft CPU: <https://youtu.be/TxatLwlj0lU?si=aYUfTmiCIc7kXt56&t=34>
 
-### Controler l'automate
+### Contrôler l'automate
 
-Nous devons maintenant controler notre automate et lui faire faire des calculs. Nous créons des langages avec des niveaux d'abstraction de plus en plus élevés et de plus en plus élégants.
-Nous controlons un nouveau type de rapport au langage: l'exécution en plus de la lecture et de l'écriture.
+Nous devons maintenant contrôler notre automate et lui faire faire des calculs. Nous créons des langages avec des niveaux d'abstraction de plus en plus élevés et de plus en plus élégants.
+Nous contrôlons un nouveau type de rapport au langage: l'exécution en plus de la lecture et de l'écriture.
 
 - Langage de programmation: <https://fr.wikipedia.org/wiki/Langage_de_programmation>
 - Assembleur: <https://fr.wikipedia.org/wiki/Assembleur>
@@ -63,9 +63,9 @@ Nous controlons un nouveau type de rapport au langage: l'exécution en plus de l
 - Python: <https://fr.wikipedia.org/wiki/Python_(langage)>
 - NANDGAME (partie logiciel): <https://www.nandgame.com/>
 
-### Accélerer l'automate
+### Accélérer l'automate
 
-Au bout d'un certains temps, la miniaturisation des transistors et la fréquence de calcul atteignent des limites physiques. Il faut donc trouver d'autres moyens d'augmenter la puissance de calcul: on duplique et on parallèlise en répartissant la charge de travail sur les différents coeurs.
+Au bout d'un certain temps, la miniaturisation des transistors et la fréquence de calcul atteignent des limites physiques. Il faut donc trouver d'autres moyens d'augmenter la puissance de calcul: on duplique et on parallélise en répartissant la charge de travail sur les différents cœurs.
 
 - Loi de Moore: <https://fr.wikipedia.org/wiki/Loi_de_Moore>
 - Effet tunnel: <https://fr.wikipedia.org/wiki/Effet_tunnel>
@@ -78,10 +78,10 @@ Au bout d'un certains temps, la miniaturisation des transistors et la fréquence
 
 ### Réseaux de neurones et vision machine (ANNs)
 
-Notre machine est déterministe, rapide et précise mais elle n'aime pas l'incertitude, l'ambiguité et l'approximation.
+Notre machine est déterministe, rapide et précise mais elle n'aime pas l'incertitude, l'ambiguïté et l'approximation.
 On explore alors comment le cerveau humain arrive à appréhender le monde incertain qui nous entoure avec ses réseaux de neurones.
 On s'inspire de la nature pour créer des réseaux de neurones artificiels.
-(La vision humaine serait de 576 million pixels, et le cerveau humain contient 86 milliards. Le traitement quasi-instantanée de l'information visuelle est fascinant.)
+(La vision humaine serait de 576 millions de pixels, et le cerveau humain contient 86 milliards de neurones. Le traitement quasi instantané de l'information visuelle est fascinant.)
 
 - ANN: <https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels>
 - Perceptron: <https://fr.wikipedia.org/wiki/Perceptron>
@@ -99,7 +99,7 @@ On s'inspire de la nature pour créer des réseaux de neurones artificiels.
 ### Large Language Models (LLMs)
 
 Une des théories de l'apparition des facultés humaines est le détournement d'une partie de notre puissance de calcul visuelle vers la méta-cognition et les concepts abstraits.
-Les LLMs sont des réseaux de neurones qui ont été entrainés sur de très grands corpus de données textuelles. Ils sont capables de générer du texte à partir d'un prompt.
+Les LLMs sont des réseaux de neurones qui ont été entraînés sur de très grands corpus de données textuelles. Ils sont capables de générer du texte à partir d'un prompt.
 
 - Deep Learning: <https://fr.wikipedia.org/wiki/Apprentissage_profond>
 - Transformeur: <https://fr.wikipedia.org/wiki/Transformeur>
@@ -110,7 +110,7 @@ Les LLMs sont des réseaux de neurones qui ont été entrainés sur de très gra
 
 > Viz NanoLLM: <https://bbycroft.net/llm>
 
-Voici un exemple d'utilisation de GPT-4 pour créer un chatbot catholique qui enrichi du "Cathéchisme de l'Eglise Catholique" réponds aux questions posées par les utilisateurs.
+Voici un exemple d'utilisation de GPT-4 pour créer un chatbot catholique qui enrichi du « Catéchisme de l'Église catholique » répond aux questions posées par les utilisateurs.
 
 ### Corpus de pré-training
 
@@ -137,7 +137,7 @@ Conversion d'un texte en une séquence de tokens (mots, caractères, sous-mots, 
 
 ### Choix du type de LLM
 
-Des architectures différentes sont adaptées aux taches à réaliser:
+Des architectures différentes sont adaptées aux tâches à réaliser :
 
 - "Auto-encoding" RoBERTa: textes à trous, analyse de sentiments, NER, etc.
 - "Auto-regressive" GPT: génération de texte
@@ -145,9 +145,9 @@ Des architectures différentes sont adaptées aux taches à réaliser:
 
 ### Fine-tuning
 
-On change les poids du modèle pour qu'il soit adapté à une tache particulière en lui donnant des exemples de la tache à réaliser et des réponses attendues.
-On peut segmenter le modèle en plusieurs parties fine-tuner une partie et géler les poids du reste. (PEFT)
-Le mode INSTRUCT réponds aux instructions données par l'utilisateur.
+On change les poids du modèle pour qu'il soit adapté à une tâche particulière en lui donnant des exemples de la tâche à réaliser et des réponses attendues.
+On peut segmenter le modèle en plusieurs parties fine-tuner une partie et geler les poids du reste. (PEFT)
+Le mode INSTRUCT répond aux instructions données par l'utilisateur.
 
 - Fine-tuning: <https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)>
 - Adaptation au domaine: <https://en.wikipedia.org/wiki/Domain_adaptation>
@@ -164,30 +164,30 @@ D'autres tests sont plus généralistes comme MMLU.
 
 - BLEU: <https://en.wikipedia.org/wiki/BLEU>
 - ROUGE: <https://en.wikipedia.org/wiki/ROUGE_(metric)>
-- MMLU: <https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu>
+- MMLU: <https://en.wikipedia.org/wiki/MMLU>
 
 ### Renforcement par feedback humain (RLHF)
 
 Un LLM doit suivre les HHH: Helpful, Honest and Harmless
 On génère plusieurs réponses, on demande à un humain de les classer et on fine-tune le modèle vis à vis de ce feedback.
-Si un LLMs est trop "serviable" il peut être manipulé par un utilisateur pour des activités malveillantes.
+Si un LLM est trop "serviable" il peut être manipulé par un utilisateur pour des activités malveillantes.
 
 - PPO: <https://en.wikipedia.org/wiki/Proximal_Policy_Optimization>
 
 ### Déploiement
 
-Compression, optimisation et déploiement du modèle sur un serveur pour qu'il puisse être répondre aux utilisateurs.
+Compression, optimisation et déploiement du modèle sur un serveur pour qu'il puisse répondre aux utilisateurs.
 
 ### Librairie d'orchestration
 
-Permet au LLM de communiquer avec d'autres composants du système, de faire des requetes de données, etc.
+Permet au LLM de communiquer avec d'autres composants du système, de faire des requêtes de données, etc.
 
 - LangChain: <https://www.langchain.com/>
 
 ### Génération Augmentée de Récupération (RAG)
 
-Permet d'ajouter des sources de données supplémentaires pour enrichir les réponses du modèle à travers des requetes dans des bases de données, des interrogations de moteurs de recherche, de la recherche sémantique, des appels API, etc.
-La recherche par similarité vectorielle (embedding vectors) permet de trouver des réponses des textes similaires à la requete qui peuvent être intégrées dans la réponse du modèle.
+Permet d'ajouter des sources de données supplémentaires pour enrichir les réponses du modèle à travers des requêtes dans des bases de données, des interrogations de moteurs de recherche, de la recherche sémantique, des appels API, etc.
+La recherche par similarité vectorielle (embedding vectors) permet de trouver des réponses des textes similaires à la requête qui peuvent être intégrées dans la réponse du modèle.
 
 - RAG: <https://arxiv.org/abs/2104.05544>
 - BDD vectorielle: <https://www.pinecone.io/>
@@ -198,20 +198,20 @@ La recherche par similarité vectorielle (embedding vectors) permet de trouver d
 
 ### Program aided language (PAL) model & ReACT
 
-On donne au modèle la capacité de générer du code informatique permettant de réaliser des taches complexes.
+On donne au modèle la capacité de générer du code informatique permettant de réaliser des tâches complexes.
 Par exemple un calcul complexe est hors de portée d'un LLM alors qu'il peut écrire un code informatique simple pouvant le résoudre.
-Le modèle a juste une tache générale et fais un plan de sous taches et d'agents pour y arriver.
+Le modèle a juste une tâche générale et fait un plan de sous-tâches et d'agents pour y arriver.
 
-- AutoLLM: <https://github.com/safevideo/autollm>
+- AutoLLM: <https://github.com/fcakyon/autollm>
 - ReAct: <https://arxiv.org/abs/2210.03629>
 - LangChain: <https://www.langchain.com/>
 
 ### Prompt Engineering
 
-Nous disposons suivant les modèles d'un espace limité pour donner des instructions au modèle, la fenetre de contexte.
-C'est dans cette fenetre que nous allons indiquer:
+Nous disposons suivant les modèles d'un espace limité pour donner des instructions au modèle, la fenêtre de contexte.
+C'est dans cette fenêtre que nous allons indiquer :
 
-- la définition de la "personalité" du modèle et de son orientation
+- la définition de la « personnalité » du modèle et de son orientation
 - les instructions pour la tâche à réaliser
 - les données issues de la génération augmentée de récupération
 - la question de l'utilisateur
@@ -224,11 +224,11 @@ C'est dans cette fenetre que nous allons indiquer:
 
 L'interface utilisateur est un élément essentiel pour que le modèle puisse être utilisé par des humains.
 Elle est généralement proche d'une interface de messagerie instantanée avec des bulles de conversation.
-Elle comprends également un système de gestion des utilisateurs, un historique des messages, etc.
+Elle comprend également un système de gestion des utilisateurs, un historique des messages, etc.
 
 - Interface utilisateur: <https://fr.wikipedia.org/wiki/Interface_utilisateur>
 - UX: <https://fr.wikipedia.org/wiki/Exp%C3%A9rience_utilisateur>
 
 ## III - Cas pratique
 
-Démonstration de l'utilisation de GPT-4 pour créer un chatbot catholique qui enrichi du "Cathéchisme de l'Eglise Catholique" réponds aux questions posées par les utilisateurs.
+Démonstration de l'utilisation de GPT-4 pour créer un chatbot catholique qui enrichi du « Catéchisme de l'Église catholique » répond aux questions posées par les utilisateurs.

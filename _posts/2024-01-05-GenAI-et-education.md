@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes de conférence genAI et education"
+title:  "Notes de conférence : genAI et éducation"
 date:   2024-01-05 16:13:05 +0200
 categories: AI
 ---
@@ -43,18 +43,18 @@ Lorsqu'on parle d'apprentissage-machine on parle d'un processus mathématique qu
 - LLMs: Large Language Models
 - IA: "Intelligence" Artificielle
 - Embedding: Vecteur de nombres qui représente un mot dans un espace vectoriel.
-- Poids (weight): Force de la connexion entre deux neurones dans le réseau. Coeur du réseau de neurones.
-- Pré-Prompt: Texte qui défini le contexte, le ton de la réponse.
+- Poids (weight): Force de la connexion entre deux neurones dans le réseau. Cœur du réseau de neurones.
+- Pré-Prompt: Texte qui définit le contexte, le ton de la réponse.
 - Prompt: Question de l'utilisateur envoyée au modèle pour le guider dans la génération de texte.
 
 ## IA génératives
 
-### LLMs (ChatGPT, GPT-4, Llama2, etc.)
+### LLMs (ChatGPT, GPT-4, Llama 2, etc.)
 
-- Plusieurs innovations ont permis l'émergence de l'IA générative: le modèle mathématique de transformers qui permet et la forte augmentation des capacités de calcul parallelisé.
+- Plusieurs innovations ont permis l'émergence de l'IA générative: le modèle mathématique des transformers et la forte augmentation des capacités de calcul parallélisé.
 - Le langage est une structure séquentielle où la position des mots a de l'importance. (image texte)
 - Les LLMs sont des modèles de langage qui sont capables de générer du texte à partir d'un texte d'entrée. (image LLM)
-- Ce sont des algorithmes de prédiction du mot d'après. (image LLM)
+- Ce sont des algorithmes de prédiction du mot suivant. (image LLM)
 
 ### Génération d'images
 
@@ -64,5 +64,5 @@ Lorsqu'on parle d'apprentissage-machine on parle d'un processus mathématique qu
 
 ### Génération de code
 
-- Démo: <https://copilot.github.com/>
-- Recursion des IA qui se codent elle meme (autoGPT).
+- Démo: <https://github.com/features/copilot>
+- Récursion des IA qui se codent elles-mêmes (AutoGPT).
