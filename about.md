@@ -2,10 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/profile.jpg
 ---
-
-<img src="/assets/images/profile-480.jpg" alt="Philippe Cochin" width="200" style="float: right; margin: 0 0 1em 1.5em; border-radius: 8px;">
 
 I make invisible things visible. I'm a French lead dev / CTO who builds language-model systems for a living, currently as a freelancer; in Singapore I built a quantum optics simulator that thousands of students learn from. I studied philosophy and theology for four years and sometimes lecture at universities. I trained as a jeweller at the École Boulle and I release songs as [Small Warm Things](/art/). On the mathematical side I maintain a [balanced ternary research laboratory](/math/) and contribute to the [OEIS](https://oeis.org/wiki/User:Philippe_Cochin). I'm also an Ironman triathlete, and I enjoy complexity and new challenges.
 
@@ -34,7 +31,7 @@ More on the [Art](/art/) page.
 - Co-founder of [Action Aide Asie](https://actionaideasie.com/), a medical NGO active in 7 South-East Asian countries
 - Co-founder of [Action Aide Afrique](https://www.actionaideafrique.com/), a medical NGO active in African countries
 - Member of [Amis des Malades](https://www.amisdesmalades.com/), a medical charity active in France
-- Member of [Mensa](https://www.mensa.org/) (top 2% IQ)
+- Member of [Mensa](https://www.mensa.org/)
 
 ## 🏃 Sports
 
