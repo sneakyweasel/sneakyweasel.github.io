@@ -6,7 +6,9 @@ permalink: /math/
 
 I like number representations that make structure visible. Balanced ternary, where every integer is one unique word over the digits `-`, `0`, `+`, is my favourite, and most of my mathematical work since 2019 grows out of it.
 
-Feel free to [contact me](mailto: <philippe@cochin.fr>)!
+Feel free to [contact me](mailto:philippe@cochin.fr)!
+
+My publications are listed on ORCID: [0009-0004-1939-3382](https://orcid.org/0009-0004-1939-3382).
 
 ## 🔢 OEIS sequences
 
@@ -34,6 +36,12 @@ The active application is the Juggler map ([A094683](https://oeis.org/A094683)):
 - [Five-Step Descent Certificates for the Juggler Map: Parity Statistics of Nested Floor Powers](https://doi.org/10.5281/zenodo.22864933) - the starting values that admit a power-envelope descent certificate within five operations have natural density 7/8 (13/16 for four), by exact carry identities, centered Fourier expansions and van der Corput differencing.
 
 None of this claims a solution of the Juggler or Collatz problems. There is an [interactive companion](https://balanced-ternary-beta.vercel.app) to explore the orbits.
+
+## 🔁 The 3n−1 map
+
+The 3n−1 map (g(y) = y/2 for even y and (3y−1)/2 for odd y) is the shortcut 3n+1 map read on the negative integers. Its known cycles are 1, (5, 7, 10) and the eleven-element cycle at 17, and every start below 2^51 reaches one of them. One preprint, September 2026, on Zenodo under CC BY 4.0:
+
+- [No m-cycles of the 3n−1 map for m ≤ 58](https://doi.org/10.5281/zenodo.22876189) - the Simons–de Weger template for 3n+1 m-cycles, transposed to this map with its constants derived on this side and combined with the bound of Rhin on linear forms in logarithms: no m-cycle with 1 ≤ m ≤ 58 other than the two known ones. The statement is new for 3 ≤ m ≤ 58; for m ≤ 2 it is a floor-dependent form of a theorem of Simons.
 
 ## 🧮 Older toys
 

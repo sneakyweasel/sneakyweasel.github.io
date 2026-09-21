@@ -25,6 +25,9 @@ minima:
     - title: sneakyweasel on GitHub
       icon: github
       url: "https://github.com/sneakyweasel"
+    - title: Philippe Cochin on ORCID
+      icon: orcid
+      url: "https://orcid.org/0009-0004-1939-3382"
     - title: Philippe Cochin on LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/philippe-cochin-b4978231"
