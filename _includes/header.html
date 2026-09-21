@@ -1,0 +1,24 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
+    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- unless page_titles == empty %}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon"></span>
+        </label>
+
+        {% include nav-items.html paths = page_paths %}
+      </nav>
+    {%- endunless %}
+  </div>
+
+  <div class="wrapper site-banner">
+    <img src="{{ '/assets/images/header.webp' | relative_url }}" width="2400" height="760" alt="A still life of my interests on a dark table: a laser through a glass vessel, a ring with a blue stone, chess pieces, an open book, an acorn, a circuit board, a vinyl record, a stethoscope, and a weasel on a stack of books">
+  </div>
+</header>
