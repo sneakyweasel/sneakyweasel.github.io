@@ -1,0 +1,11 @@
+// Site banner under the navigation: the still-life header, content width, whole image visible.
+.site-banner {
+  padding-top: $spacing-unit * 0.5;
+  padding-bottom: 0;
+}
+.site-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
