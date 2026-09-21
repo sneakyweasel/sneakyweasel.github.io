@@ -4,9 +4,9 @@ title: Certifications
 permalink: /certifications/
 ---
 
-I really enjoy discovering new complex topics and gaining a stronger insight about the nature of things. Here are the different certifications I completed:
+I really enjoy discovering new complex topics and gaining a stronger insight into the nature of things. Here are the certifications I have completed:
 
-## 🤖 Artifical intelligence and machine learning
+## 🤖 Artificial intelligence and machine learning
 
 - [Generative AI with Large Language Models](https://coursera.org/share/e39f9086732f131d4d6b0fef988d9d82) by Andrew Ng
 - [Deep Learning Specialization (5 courses)](https://coursera.org/share/060c260c19a2007f337dfae390fe4382) by Andrew Ng
@@ -16,11 +16,11 @@ I really enjoy discovering new complex topics and gaining a stronger insight abo
   - [Sequence Models](https://coursera.org/share/5434bff765bf5386897be78ff8fdc1fe)
   - [Structuring Machine Learning Projects](https://coursera.org/share/513c72e16e20d7898518b5b2a4d35a94)
 
-## 🔬 Quantum physics & Quantum computing
+## 🔬 Quantum physics and quantum computing
 
-- [Fundamentals of waves and vibrations](https://coursera.org/share/662545fb0f6c27b9ec702ab089032045) - École Polytechnique
-- [Quantum Optics 1 - Single Photons by Alain Aspect](https://coursera.org/share/276a44c5c58a3adf1532e75686bf29e7) by Alain Aspect - École Polytechnique
-- [Quantum Optics 2 - Two photons and more](https://coursera.org/share/2070777ce507735418242e64e67fc8b7) by Alain Aspect - École Polytechnique
+- [Fundamentals of Waves and Vibrations](https://coursera.org/share/662545fb0f6c27b9ec702ab089032045) - École Polytechnique
+- [Quantum Optics 1 - Single Photons](https://coursera.org/share/276a44c5c58a3adf1532e75686bf29e7) by Alain Aspect - École Polytechnique
+- [Quantum Optics 2 - Two Photons and More](https://coursera.org/share/2070777ce507735418242e64e67fc8b7) by Alain Aspect - École Polytechnique
 
 ## 🦾 Mechanical engineering
 

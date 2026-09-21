@@ -4,24 +4,21 @@ title: Quantum
 permalink: /quantum/
 ---
 
-I've been fascinated by quantum physics and especially quantum optics for some time. I've had the opportunity to work with some of the best researchers in the field.
+I've been fascinated by quantum physics, and especially quantum optics, for a long time, and I've had the opportunity to work with some of the best researchers in the field.
 
-Feel free to [contact me](mailto: <philippe@cochin.fr>)!
+Feel free to [contact me](mailto:philippe@cochin.fr)!
 
 ## 🍩 Quantum error correction
 
-I worked with IBM researchers on the [Decodoku project](https://arxiv.org/pdf/1608.05053.pdf) which uses toric codes for quantum error correction and using a custom made genetic algorithm led to the discovery of the "Weasel toric code" algorithm which ran on the IBM quantum computer.
+I took part in [Decodoku](https://arxiv.org/abs/1608.05053), James Wootton's citizen-science project on toric-code quantum error correction at the University of Basel. My custom genetic algorithm for its puzzles is cited as reference 17 of the resulting paper, *A proposal for a minimal surface code experiment*, Phys. Rev. A 96, 032338 (2017), and led to the deterministic "Weasel toric code" algorithm, which ran on IBM quantum hardware. Code: [genetic-quantum-correction](https://github.com/sneakyweasel/genetic-quantum-correction).
 
 ## 🔬 Quantum optics
 
-- I was invited by Artur Ekert at [Centre for Quantum Technologies](https://www.quantumlah.org/) in Singapore to work on the first graphical quantum optics simulator as lead-dev: [Quantum Game](https://quantumgame.io/). Our work is now used by thousands of students and researchers around the world.
-
-- With my team we were finalists for the [Webby's Award](https://en.wikipedia.org/wiki/Webby_Awards), considered to be the "Digital Oscars", for the [best scientific project of 2023](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/) competing against NASA Jet Propulsion Lab and OpenAI.
-
-- We also wrote a [publication on arXiv](https://arxiv.org/abs/2203.13300) about the project and the no-code, no-maths approach to quantum optics and the vizualisation of quantum optics.
-
-- I was especially proud of the generative multiverse theory visualization we made for the project by applying graph theory and branching to the possible outcomes of a quantum experiment.
+- At the invitation of Artur Ekert, I joined the [Centre for Quantum Technologies](https://www.cqt.sg/) in Singapore as lead developer of the first graphical quantum optics simulator, [Quantum Game](https://quantumgame.io/), which grew into Virtual Lab by Quantum Flytrap. It is now used by thousands of students and researchers around the world.
+- With the Quantum Flytrap team we were nominated for the 2023 [Webby Awards](https://en.wikipedia.org/wiki/Webby_Awards), the "Digital Oscars", in the [Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/), alongside NASA's Jet Propulsion Laboratory and OpenAI.
+- We published the project and its no-code, no-maths approach to quantum optics: P. Migdał, K. Jankiewicz, P. Grabarz, C. Decaroli, P. Cochin, *Visualizing quantum mechanics in an interactive simulation: Virtual Lab by Quantum Flytrap*, Optical Engineering 61(8), 081808 (2022), [doi:10.1117/1.OE.61.8.081808](https://doi.org/10.1117/1.OE.61.8.081808), [arXiv:2203.13300](https://arxiv.org/abs/2203.13300).
+- I'm especially proud of the generative multiverse visualisation we built for the project, applying graph theory and branching to the possible outcomes of a quantum experiment.
 
 ## 🤖 Quantum computing & AI
 
-- I was invited to attend MIT IQuHack 2023, the world's largest quantum hackathon. We did a great project on quantum machine learning and presented a solid project to the jury: [Quintessence](https://github.com/sneakyweasel/quintessence)
+- I was invited to MIT iQuHACK 2023, the world's largest quantum hackathon, where our team built and presented [Quintessence](https://github.com/sneakyweasel/quintessence): a quantum-walk search running on IonQ hardware that feeds a generative storytelling pipeline.
