@@ -10,9 +10,7 @@ Feel free to [contact me](mailto:philippe@cochin.fr)!
 
 ## 🏗 Full-stack, in private repositories
 
-- **Two social networks**, built end to end, in Ruby on Rails and Django.
-- **A trading platform**, built end to end, in Laravel.
-- Client work in the same three frameworks, which is why they do not appear below: the repositories are private.
+Two social networks and a trading platform, each built end to end, in Ruby on Rails, Django and Laravel. They live in private repositories, which is why they do not appear below.
 
 ## 🧰 Languages
 
