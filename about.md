@@ -7,7 +7,7 @@ image: /assets/images/profile.jpg
 
 <img src="/assets/images/profile-480.jpg" alt="Philippe Cochin" width="200" style="float: right; margin: 0 0 1em 1.5em; border-radius: 8px;">
 
-I'm a French lead dev / CTO who loves to code and learn new things. I currently work as a freelancer on generative AI and LLMs. I enjoy complexity and I'm always looking for new challenges. On the mathematical side I maintain a [balanced ternary research laboratory](/math/) and contribute to the [OEIS](https://oeis.org/wiki/User:Philippe_Cochin). I'm also a certified jewellery designer and an Ironman triathlete.
+I make invisible things visible. I'm a French lead dev / CTO who builds language-model systems for a living, currently as a freelancer; in Singapore I built a quantum optics simulator that thousands of students learn from. I studied philosophy and theology for four years and sometimes lecture at universities. I trained as a jeweller at the École Boulle and I release songs as [Small Warm Things](/art/). On the mathematical side I maintain a [balanced ternary research laboratory](/math/) and contribute to the [OEIS](https://oeis.org/wiki/User:Philippe_Cochin). I'm also an Ironman triathlete, and I enjoy complexity and new challenges.
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
 
