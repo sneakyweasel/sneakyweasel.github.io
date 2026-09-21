@@ -4,9 +4,13 @@ title: Art
 permalink: /art/
 ---
 
-Code is not the only thing I make. Two other things get finished and released: songs, and jewellery.
+Code is not the only thing I make. Two other things get finished and released: jewellery, and songs.
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
+
+## 💎 Jewellery
+
+I am a certified jeweller and designer, trained at the École Boulle in Paris. My pieces are on Instagram: [@cochinjewellery](https://www.instagram.com/cochinjewellery/).
 
 ## 🎵 Music
 
@@ -19,10 +23,6 @@ Behind the songs is a measurement. Each line is scored by a local language model
 The next step is a brain: an EEG rig on a kitchen table, one reader, and whether the lines the model calls earned land differently in a head. It has not answered yet. When it does, the answer goes in the songs.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/2YJ2NTqTZXZ5J1jpjpnLgU?utm_source=generator&theme=0&si=6415d06c4c284279" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## 💎 Jewellery
-
-I am a certified jeweller and designer, trained at the École Boulle in Paris. My pieces are on Instagram: [@cochinjewellery](https://www.instagram.com/cochinjewellery/).
 
 ## 🖨 Other making
 
