@@ -50,18 +50,18 @@ minima:
   # English header, in order.
   nav_pages:
     - ai.md
+    - code.md
     - quantum.md
     - math.md
-    - code.md
     - art.md
     - certifications.md
     - about.md
   # French header, read by _includes/header.html.
   nav_pages_fr:
     - fr/ai.md
+    - fr/code.md
     - fr/quantum.md
     - fr/math.md
-    - fr/code.md
     - fr/art.md
     - fr/certifications.md
     - fr/about.md

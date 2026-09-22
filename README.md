@@ -5,7 +5,7 @@ Source of [www.cochin.fr](https://www.cochin.fr), Philippe Cochin's personal sit
 ## Layout
 
 - `index.md` - English home page; the layout lists the English posts below its text
-- `ai.md`, `quantum.md`, `math.md`, `code.md`, `art.md`, `certifications.md`, `about.md` - the English header pages, in the order given by `minima.nav_pages` in `_config.yml`
+- `ai.md`, `code.md`, `quantum.md`, `math.md`, `art.md`, `certifications.md`, `about.md` - the English header pages, in the order given by `minima.nav_pages` in `_config.yml`
 - `fr/` - the French pages, same file names, served under `/fr/` with the same slugs; the French header order is `minima.nav_pages_fr`
 - `_posts/` - English blog posts; the file name sets the URL, the front matter sets the date
 - `_billets/` - French blog posts, a collection served under `/fr/`; each carries its `date` and `permalink` in its front matter
