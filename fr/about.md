@@ -10,7 +10,7 @@ Je rends visibles les choses invisibles. Je suis un lead dev / CTO français don
 
 N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 
-## 💼 Parcours
+## 💼 Parcours {#parcours}
 
 - **Développeur full-stack et data scientist**, indépendant, Paris, depuis 2016. Voir [Code](/fr/code/) et [IA](/fr/ai/).
 - **Cofondateur et responsable du développement, COVID3D-APHP**, Paris, de mars à décembre 2020. COVID3D-APHP fédérait les initiatives de conception et d'impression 3D contre la Covid-19 en Île-de-France. Avec Roman Khonsari, Guillaume Tassin et Bone3D, nous avons ouvert en une semaine, à l'hôpital Cochin, la première ferme professionnelle d'impression 3D en milieu hospitalier, pour répondre à la pénurie d'équipements. J'ai codé [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/), qui publiait les modèles 3D open source d'équipements de protection et de matériel médical conçus pour la crise, et cofondé emergency.io pour les diffuser aux soignants et aux fablabs du monde entier. [Le Parisien](https://www.leparisien.fr/high-tech/l-ap-hp-va-imprimer-en-3d-les-equipements-qui-manquent-dans-ses-hopitaux-03-04-2020-8293692.php) a raconté la ferme.

@@ -9,7 +9,7 @@ I make invisible things visible. I'm a French lead dev / CTO who builds language
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
 
-## 💼 Experience
+## 💼 Experience {#experience}
 
 - **Full-stack developer and data scientist**, freelance, Paris, since 2016. See [Code](/code/) and [AI](/ai/).
 - **Co-founder and head of development, COVID3D-APHP**, Paris, March to December 2020. COVID3D-APHP federated the 3D design and printing initiatives against Covid-19 in the Paris region. With Roman Khonsari, Guillaume Tassin and Bone3D, we opened the first professional hospital 3D-printing farm, at Hôpital Cochin, within a week, to answer the equipment shortage. I coded [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/), which published the open-source models of protective and medical equipment designed for the crisis, and co-founded emergency.io to share them with medics and fablabs worldwide. [Le Parisien](https://www.leparisien.fr/high-tech/l-ap-hp-va-imprimer-en-3d-les-equipements-qui-manquent-dans-ses-hopitaux-03-04-2020-8293692.php) covered the farm.
