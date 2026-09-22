@@ -23,4 +23,4 @@ J'ai participé à [Decodoku](https://arxiv.org/abs/1608.05053), le projet de sc
 
 ## 🤖 Informatique quantique et IA
 
-- J'ai été invité au MIT iQuHACK 2023, le plus grand hackathon quantique du monde, où notre équipe a construit et présenté [Quintessence](https://github.com/sneakyweasel/quintessence) : une recherche par marche quantique tournant sur du matériel IonQ, qui alimente un pipeline de narration générative.
+- J'ai été invité au MIT iQuHACK 2023, le plus grand hackathon quantique du monde, où notre équipe a construit et présenté [Quintessence](https://github.com/sneakyweasel/quintessence) : une recherche par marche quantique sur du matériel IonQ, dont les probabilités de position et l'entropie alimentaient GPT-3 puis Stable Diffusion pour dessiner une « bande dessinée quantique ».

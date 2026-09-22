@@ -22,4 +22,4 @@ I took part in [Decodoku](https://arxiv.org/abs/1608.05053), James Wootton's cit
 
 ## 🤖 Quantum computing & AI
 
-- I was invited to MIT iQuHACK 2023, the world's largest quantum hackathon, where our team built and presented [Quintessence](https://github.com/sneakyweasel/quintessence): a quantum-walk search running on IonQ hardware that feeds a generative storytelling pipeline.
+- I was invited to MIT iQuHACK 2023, the world's largest quantum hackathon, where our team built and presented [Quintessence](https://github.com/sneakyweasel/quintessence): a quantum-walk search on IonQ hardware whose position probabilities and entropy were fed to GPT-3, then to Stable Diffusion, to draw a "quantum comic strip".
