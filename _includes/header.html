@@ -27,7 +27,13 @@ a last item switches to the same page in the other language.
         <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
         {%- endif -%}
         {%- endfor %}
-        <a class="nav-item lang-switch" href="{{ counterpart_url | relative_url }}" lang="{{ other_lang }}" hreflang="{{ other_lang }}" title="{{ switch_title }}">{{ switch_label }}</a>
+        <a class="nav-item lang-switch" href="{{ counterpart_url | relative_url }}" lang="{{ other_lang }}" hreflang="{{ other_lang }}" title="{{ switch_title }}" aria-label="{{ switch_title }}">
+          {%- if other_lang == "fr" -%}
+          <svg class="flag" viewBox="0 0 3 2" aria-hidden="true" focusable="false"><path fill="#0055A4" d="M0 0h1v2H0z"/><path fill="#fff" d="M1 0h1v2H1z"/><path fill="#EF4135" d="M2 0h1v2H2z"/></svg>
+          {%- else -%}
+          <svg class="flag" viewBox="7.5 0 45 30" aria-hidden="true" focusable="false"><clipPath id="flag-uk-clip"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#flag-uk-clip)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></svg>
+          {%- endif -%}
+        </a>
       </div>
     </nav>
   </div>

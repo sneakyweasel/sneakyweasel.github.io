@@ -8,14 +8,12 @@ the layouts all include this file and then read:
                           `ref` shared between a page or post and its
                           translation; the other language's home page when
                           there is no translation
-  switch_label, switch_title, feed_url, feed_title
 {%- endcomment -%}
 {%- assign lang = page.lang | default: site.lang -%}
 {%- if lang == "fr" -%}
   {%- assign other_lang = "en" -%}
   {%- assign home_url = "/fr/" -%}
   {%- assign other_home_url = "/" -%}
-  {%- assign switch_label = "English" -%}
   {%- assign switch_title = "Read this page in English" -%}
   {%- assign feed_url = "/fr/feed.xml" -%}
   {%- assign feed_title = "Flux Atom des billets en français" -%}
@@ -24,7 +22,6 @@ the layouts all include this file and then read:
   {%- assign other_lang = "fr" -%}
   {%- assign home_url = "/" -%}
   {%- assign other_home_url = "/fr/" -%}
-  {%- assign switch_label = "Français" -%}
   {%- assign switch_title = "Lire cette page en français" -%}
   {%- assign feed_url = "/feed.xml" -%}
   {%- assign feed_title = "Subscribe to the Atom feed" -%}
