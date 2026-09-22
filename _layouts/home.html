@@ -3,7 +3,7 @@ layout: base
 ---
 {%- comment -%}
 Copy of minima's home layout, listing the posts of the page's language:
-site.posts on the English home, site.posts_fr on the French one.
+site.posts on the English home, site.billets on the French one.
 {%- endcomment -%}
 {%- include i18n.html -%}
 <div class="home">
@@ -14,7 +14,7 @@ site.posts on the English home, site.posts_fr on the French one.
   {{ content }}
 
   {%- if lang == "fr" -%}
-    {%- assign posts = site.posts_fr | sort: "date" | reverse -%}
+    {%- assign posts = site.billets | sort: "date" | reverse -%}
   {%- else -%}
     {%- assign posts = site.posts -%}
   {%- endif -%}

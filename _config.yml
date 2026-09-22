@@ -9,7 +9,7 @@ lang: en
 timezone: Europe/Paris
 
 # Languages. English pages live at the root and French pages under fr/ with
-# the same slugs; English posts live in _posts/ and French posts in _posts_fr/.
+# the same slugs; English posts live in _posts/ and French posts in _billets/.
 # Every page and post carries a `ref` shared with its translation, which
 # _includes/i18n.html uses to point the header toggle and the hreflang links
 # at the counterpart. The `lang` of each document comes from its directory.
@@ -23,25 +23,25 @@ defaults:
     values:
       lang: fr
   - scope:
-      path: _posts_fr
+      path: _billets
     values:
       lang: fr
       layout: post
 
 collections:
-  posts_fr:
+  billets:
     output: true
     permalink: /fr/:categories/:year/:month/:day/:title:output_ext
 
 # jekyll-feed: /feed.xml carries the English posts, /fr/feed.xml the French.
 feed:
   collections:
-    posts_fr:
+    billets:
       path: /fr/feed.xml
 
 # Theme: minima 3, pinned to an upstream commit so that upstream changes cannot
 # alter the live site unannounced. See README.md for how to update it.
-# _includes/header.html, _includes/footer.html, _layouts/home.html and
+# _includes/head.html, header.html and footer.html, _layouts/home.html and
 # _layouts/post.html are copies of the theme's, adapted for two languages.
 remote_theme: jekyll/minima@4de322363fca
 minima:

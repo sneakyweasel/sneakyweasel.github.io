@@ -28,7 +28,7 @@ the layouts all include this file and then read:
   {%- assign switch_title = "Lire cette page en français" -%}
   {%- assign feed_url = "/feed.xml" -%}
   {%- assign feed_title = "Subscribe to the Atom feed" -%}
-  {%- assign other_docs = site.pages | concat: site.posts_fr -%}
+  {%- assign other_docs = site.pages | concat: site.billets -%}
 {%- endif -%}
 {%- assign counterpart = nil -%}
 {%- if page.ref -%}
