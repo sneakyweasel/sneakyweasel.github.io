@@ -1,0 +1,14 @@
+{%- comment -%}
+A date in the page's language: {% include date.html date=post.date lang=lang %}
+English keeps minima's format; French spells the month out.
+{%- endcomment -%}
+{%- assign d = include.date -%}
+{%- if include.lang == "fr" -%}
+  {%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
+  {%- assign month_index = d | date: "%-m" | minus: 1 -%}
+  {%- assign day = d | date: "%-d" -%}
+  {%- if day == "1" -%}1<sup>er</sup>{%- else -%}{{ day }}{%- endif %} {{ fr_months[month_index] }} {{ d | date: "%Y" }}
+{%- else -%}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {{ d | date: date_format }}
+{%- endif -%}

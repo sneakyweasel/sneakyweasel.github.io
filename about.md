@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+ref: about
 ---
 
 I make invisible things visible. I'm a French lead dev / CTO who builds language-model systems for a living, currently as a freelancer; in Singapore I built a quantum optics simulator that thousands of students learn from. I studied philosophy and theology for four years and sometimes lecture at universities. I trained as a jeweller at the École Boulle and I release songs as [Small Warm Things](/art/). On the mathematical side I maintain a [balanced ternary research laboratory](/math/) and contribute to the [OEIS](https://oeis.org/wiki/User:Philippe_Cochin). I'm also an Ironman triathlete, and I enjoy complexity and new challenges.

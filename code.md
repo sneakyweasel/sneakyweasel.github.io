@@ -2,6 +2,7 @@
 layout: page
 title: Code
 permalink: /code/
+ref: code
 ---
 
 Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, mostly the research and side projects described on the other pages.

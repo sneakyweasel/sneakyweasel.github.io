@@ -1,0 +1,41 @@
+{%- comment -%}
+Language variables for the current page. Variables assigned in an include are
+visible to the file that included it, so the header, the footer, the head and
+the layouts all include this file and then read:
+  lang, other_lang        "en" or "fr"
+  home_url, other_home_url
+  counterpart_url         the same page in the other language, found by the
+                          `ref` shared between a page or post and its
+                          translation; the other language's home page when
+                          there is no translation
+  switch_label, switch_title, feed_url, feed_title
+{%- endcomment -%}
+{%- assign lang = page.lang | default: site.lang -%}
+{%- if lang == "fr" -%}
+  {%- assign other_lang = "en" -%}
+  {%- assign home_url = "/fr/" -%}
+  {%- assign other_home_url = "/" -%}
+  {%- assign switch_label = "English" -%}
+  {%- assign switch_title = "Read this page in English" -%}
+  {%- assign feed_url = "/fr/feed.xml" -%}
+  {%- assign feed_title = "Flux Atom des billets en français" -%}
+  {%- assign other_docs = site.pages | concat: site.posts -%}
+{%- else -%}
+  {%- assign other_lang = "fr" -%}
+  {%- assign home_url = "/" -%}
+  {%- assign other_home_url = "/fr/" -%}
+  {%- assign switch_label = "Français" -%}
+  {%- assign switch_title = "Lire cette page en français" -%}
+  {%- assign feed_url = "/feed.xml" -%}
+  {%- assign feed_title = "Subscribe to the Atom feed" -%}
+  {%- assign other_docs = site.pages | concat: site.posts_fr -%}
+{%- endif -%}
+{%- assign counterpart = nil -%}
+{%- if page.ref -%}
+  {%- assign counterpart = other_docs | where: "ref", page.ref | where: "lang", other_lang | first -%}
+{%- endif -%}
+{%- if counterpart -%}
+  {%- assign counterpart_url = counterpart.url -%}
+{%- else -%}
+  {%- assign counterpart_url = other_home_url -%}
+{%- endif -%}

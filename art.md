@@ -2,6 +2,7 @@
 layout: page
 title: Art
 permalink: /art/
+ref: art
 image: /assets/images/ring-blue-stone.webp
 ---
 

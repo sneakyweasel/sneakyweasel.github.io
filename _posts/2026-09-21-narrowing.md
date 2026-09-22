@@ -3,6 +3,7 @@ layout: post
 title:  "Narrowing: one measurement for jokes, songs and proofs"
 date:   2026-09-21 16:00:00 +0200
 categories: AI
+ref: narrowing
 excerpt: "One number, the pointwise mutual information between a line and its setup, tested on jokes, three thousand songs, four thousand Lean proofs and an EEG rig."
 ---
 

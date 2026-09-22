@@ -2,6 +2,7 @@
 layout: page
 title: Quantum
 permalink: /quantum/
+ref: quantum
 ---
 
 I've been fascinated by quantum physics, and especially quantum optics, for a long time, and I've had the opportunity to work with some of the best researchers in the field.

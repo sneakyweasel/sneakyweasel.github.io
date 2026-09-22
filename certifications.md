@@ -2,6 +2,7 @@
 layout: page
 title: Certifications
 permalink: /certifications/
+ref: certifications
 ---
 
 <style>

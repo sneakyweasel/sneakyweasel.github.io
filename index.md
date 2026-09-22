@@ -1,5 +1,6 @@
 ---
 layout: home
+ref: home
 ---
 
 <div style="margin-bottom: 30px;">

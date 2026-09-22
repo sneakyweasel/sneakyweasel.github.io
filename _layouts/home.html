@@ -1,0 +1,42 @@
+---
+layout: base
+---
+{%- comment -%}
+Copy of minima's home layout, listing the posts of the page's language:
+site.posts on the English home, site.posts_fr on the French one.
+{%- endcomment -%}
+{%- include i18n.html -%}
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if lang == "fr" -%}
+    {%- assign posts = site.posts_fr | sort: "date" | reverse -%}
+  {%- else -%}
+    {%- assign posts = site.posts -%}
+  {%- endif -%}
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">{% include date.html date=post.date lang=lang %}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.minima.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>

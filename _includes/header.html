@@ -1,0 +1,34 @@
+{%- comment -%}
+Copy of minima's header with two changes: the navigation comes from
+minima.nav_pages or minima.nav_pages_fr depending on the page's language, and
+a last item switches to the same page in the other language.
+{%- endcomment -%}
+{%- include i18n.html -%}
+{%- if lang == "fr" -%}
+  {%- assign page_paths = site.minima.nav_pages_fr -%}
+{%- else -%}
+  {%- assign page_paths = site.minima.nav_pages -%}
+{%- endif -%}
+<header class="site-header">
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ home_url | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon"></span>
+      </label>
+
+      <div class="nav-items">
+        {%- for path in page_paths -%}
+        {%- assign hyperpage = site.pages | where: "path", path | first -%}
+        {%- if hyperpage.title %}
+        <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
+        {%- endif -%}
+        {%- endfor %}
+        <a class="nav-item lang-switch" href="{{ counterpart_url | relative_url }}" lang="{{ other_lang }}" hreflang="{{ other_lang }}" title="{{ switch_title }}">{{ switch_label }}</a>
+      </div>
+    </nav>
+  </div>
+</header>

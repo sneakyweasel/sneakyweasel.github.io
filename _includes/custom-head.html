@@ -1,6 +1,24 @@
+{%- include i18n.html -%}
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="16x16 32x32 48x48">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icons/icon-32.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/icons/icon-192.png' | relative_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icons/icon-180.png' | relative_url }}">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fdfdfd">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#181818">
+{%- if page.ref and counterpart %}
+<link rel="alternate" hreflang="{{ lang }}" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="{{ other_lang }}" href="{{ counterpart_url | absolute_url }}">
+{%- if lang == "fr" %}
+<link rel="alternate" hreflang="x-default" href="{{ counterpart_url | absolute_url }}">
+{%- else %}
+<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+{%- endif %}
+{%- endif %}
+{%- if lang == "fr" %}
+<link type="application/atom+xml" rel="alternate" href="{{ '/fr/feed.xml' | absolute_url }}" title="{{ site.title | escape }} (fr)">
+{%- endif %}
+<style>
+.site-nav .lang-switch { border: 1px solid currentColor; border-radius: 999px; padding: 1px 10px; font-size: 0.85em; opacity: 0.75; }
+.site-nav .lang-switch:hover { opacity: 1; }
+@media screen and (max-width: 600px) { .site-nav .lang-switch { border: 0; padding: 5px 0; font-size: inherit; opacity: 1; } }
+</style>

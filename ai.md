@@ -2,6 +2,7 @@
 layout: page
 title: AI
 permalink: /ai/
+ref: ai
 ---
 
 I've worked on AI since 2016 and I build language-model systems for a living, currently as a freelancer. Through [Logicien](https://www.logicien.fr) I build custom AI for organisations that want to own it: their code and their infrastructure. What follows is what I actually do, with the repositories that show it.
@@ -26,7 +27,7 @@ Feel free to [contact me](mailto:philippe@cochin.fr)!
 ## 🛡 Safety, ethics and the public conversation
 
 - Prompt injection, jailbreaks and red-teaming, from the attacker's side and the defender's; AI safety as an engineering discipline rather than a slogan.
-- Four years of philosophy and theology before a career in AI give me an unusual vantage point on what these systems are and are not. I've spoken on that at Sorbonne University, at high-level religious conferences and before an ethics council in Paris. Notes from some of those talks, in English and French, are among the [posts](/) on the home page.
+- Four years of philosophy and theology before a career in AI give me an unusual vantage point on what these systems are and are not. I've spoken on that at Sorbonne University, at high-level religious conferences and before an ethics council in Paris. Notes from some of those talks are among the [posts](/) on the home page.
 
 ## 📜 Certificates
 

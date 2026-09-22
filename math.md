@@ -2,6 +2,7 @@
 layout: page
 title: Math
 permalink: /math/
+ref: math
 ---
 
 I like number representations that make structure visible. Balanced ternary, where every integer is one unique word over the digits `-`, `0`, `+`, is my favourite, and most of my mathematical work since 2019 grows out of it.

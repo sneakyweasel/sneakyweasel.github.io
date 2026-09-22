@@ -3,6 +3,10 @@ layout: post
 title:  "Du silicium au langage : comment le métal pense ?"
 date:   2023-11-24 16:13:05 +0200
 categories: AI
+ref: metal
+permalink: /fr/ai/2023/11/24/Comment-le-metal-pense.html
+redirect_from:
+  - /ai/2023/11/24/Comment-le-metal-pense.html
 excerpt: "Notes de conférence : du transistor au LLM en trois étapes, l'automate, le réseau de neurones, le modèle de langage, avec les liens pour tout refaire soi-même."
 ---
 

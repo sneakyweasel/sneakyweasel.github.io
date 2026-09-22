@@ -3,6 +3,7 @@ layout: post
 title:  "LLMs and AI ethics"
 date:   2023-10-24 16:13:05 +0200
 categories: AI
+ref: ethics
 excerpt: "Notes from a talk to a panel of ethicists: why \"intelligence\" is the wrong word, what next-token prediction is and is not, and what a tailor-made religion would cost."
 ---
 

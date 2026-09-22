@@ -2,17 +2,52 @@
 title: Philippe Cochin
 email: philippe@cochin.fr
 description: AI, quantum physics, mathematics, code and art, from Paris.
+description_fr: IA, physique quantique, mathématiques, code et art, depuis Paris.
 baseurl: ""
 url: https://www.cochin.fr
 lang: en
 timezone: Europe/Paris
 
+# Languages. English pages live at the root and French pages under fr/ with
+# the same slugs; English posts live in _posts/ and French posts in _posts_fr/.
+# Every page and post carries a `ref` shared with its translation, which
+# _includes/i18n.html uses to point the header toggle and the hreflang links
+# at the counterpart. The `lang` of each document comes from its directory.
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: en
+  - scope:
+      path: fr
+    values:
+      lang: fr
+  - scope:
+      path: _posts_fr
+    values:
+      lang: fr
+      layout: post
+
+collections:
+  posts_fr:
+    output: true
+    permalink: /fr/:categories/:year/:month/:day/:title:output_ext
+
+# jekyll-feed: /feed.xml carries the English posts, /fr/feed.xml the French.
+feed:
+  collections:
+    posts_fr:
+      path: /fr/feed.xml
+
 # Theme: minima 3, pinned to an upstream commit so that upstream changes cannot
 # alter the live site unannounced. See README.md for how to update it.
+# _includes/header.html, _includes/footer.html, _layouts/home.html and
+# _layouts/post.html are copies of the theme's, adapted for two languages.
 remote_theme: jekyll/minima@4de322363fca
 minima:
   skin: auto
   show_excerpts: true
+  # English header, in order.
   nav_pages:
     - ai.md
     - quantum.md
@@ -21,23 +56,38 @@ minima:
     - art.md
     - certifications.md
     - about.md
+  # French header, read by _includes/header.html.
+  nav_pages_fr:
+    - fr/ai.md
+    - fr/quantum.md
+    - fr/math.md
+    - fr/code.md
+    - fr/art.md
+    - fr/certifications.md
+    - fr/about.md
   social_links:
     - title: sneakyweasel on GitHub
+      title_fr: sneakyweasel sur GitHub
       icon: github
       url: "https://github.com/sneakyweasel"
     - title: Philippe Cochin on ORCID
+      title_fr: Philippe Cochin sur ORCID
       icon: orcid
       url: "https://orcid.org/0009-0004-1939-3382"
     - title: Philippe Cochin on LinkedIn
+      title_fr: Philippe Cochin sur LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/philippe-cochin-b4978231"
     - title: philippecochin on X
+      title_fr: philippecochin sur X
       icon: x-twitter
       url: "https://x.com/philippecochin"
     - title: Small Warm Things on Spotify
+      title_fr: Small Warm Things sur Spotify
       icon: spotify
       url: "https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU"
     - title: cochinjewellery on Instagram
+      title_fr: cochinjewellery sur Instagram
       icon: instagram
       url: "https://www.instagram.com/cochinjewellery/"
 
@@ -45,6 +95,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - README.md
