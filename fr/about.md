@@ -10,6 +10,13 @@ Je rends visibles les choses invisibles. Je suis un lead dev / CTO français don
 
 N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 
+## 💼 Parcours
+
+- **Développeur full-stack et data scientist**, indépendant, Paris, depuis 2016. Voir [Code](/fr/code/) et [IA](/fr/ai/).
+- **Cofondateur et responsable du développement, COVID3D-APHP**, Paris, de mars à décembre 2020. COVID3D-APHP fédérait les initiatives de conception et d'impression 3D contre la Covid-19 en Île-de-France. Avec Roman Khonsari, Guillaume Tassin et Bone3D, nous avons ouvert en une semaine, à l'hôpital Cochin, la première ferme professionnelle d'impression 3D en milieu hospitalier, pour répondre à la pénurie d'équipements. J'ai codé [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/), qui publiait les modèles 3D open source d'équipements de protection et de matériel médical conçus pour la crise, et cofondé emergency.io pour les diffuser aux soignants et aux fablabs du monde entier. [Le Parisien](https://www.leparisien.fr/high-tech/l-ap-hp-va-imprimer-en-3d-les-equipements-qui-manquent-dans-ses-hopitaux-03-04-2020-8293692.php) a raconté la ferme.
+- **Développeur principal, Centre for Quantum Technologies**, Singapour, d'août à novembre 2019, à l'invitation d'Artur Ekert : le simulateur d'optique quantique open source devenu Virtual Lab. Voir [Quantique](/fr/quantum/).
+- **Cofondateur, CTO et développeur principal, Eyes On Talents**, Paris, de 2011 à 2013 : une plateforme qui rassemblait l'élite créative et la mettait en relation avec les grandes maisons.
+
 ## 🧙 Intérêts de geek
 
 - Physique quantique et informatique quantique (CQT Singapour, matériel quantique IBM, MIT iQuHACK 2023)
@@ -30,8 +37,8 @@ Plus sur la page [Art](/fr/art/).
 
 ## 🌏 ONG et associations
 
-- Cofondateur d'[Action Aide Asie](https://actionaideasie.com/), ONG médicale active dans 7 pays d'Asie du Sud-Est, depuis 2007
-- Cofondateur d'[Action Aide Afrique](https://www.actionaideafrique.com/), ONG médicale active dans des pays d'Afrique, depuis 2015
+- Cofondateur et CTO d'[Action Aide Asie](https://actionaideasie.com/), depuis 2007 : association humanitaire hospitalière qui construit et équipe des hôpitaux, forme le personnel médical et finance des opérations pour des enfants et de jeunes adultes en Birmanie, au Cambodge, en Inde, en Indonésie, au Népal, au Sri Lanka et au Vietnam
+- Cofondateur et CTO d'[Action Aide Afrique](https://www.actionaideafrique.com/) : le même travail au Bénin, au Burkina Faso, au Cameroun, en Côte d'Ivoire, à Djibouti, au Maroc, au Niger et au Rwanda
 - CTO des [Amis des Malades de l'Hôpital Cochin](https://www.amisdesmalades.com/), association médicale active en France, depuis 2004
 - Membre de [Mensa](https://www.mensa.org/) France, membre 13396
 

@@ -8,13 +8,13 @@ description: "Développeur full-stack : deux réseaux sociaux et une plateforme
 
 🏆 **Nommé aux Webby Awards 2023.** Le simulateur d'optique quantique dont j'ai été le développeur principal au CQT de Singapour, devenu Virtual Lab de Quantum Flytrap, a été [nommé dans la catégorie Science](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/) des Webby Awards 2023, les « Oscars d'Internet », avec l'équipe de Quantum Flytrap, aux côtés du Jet Propulsion Laboratory de la NASA et d'OpenAI. L'histoire est sur la page [Quantique](/fr/quantum/).
 
-L'essentiel de ce que je fabrique est du code, et l'essentiel de ce code n'est pas sur GitHub. Je suis développeur full-stack : j'ai construit deux réseaux sociaux et une plateforme de trading de bout en bout, en Rails, Django et Laravel, et ce travail vit dans des dépôts privés. Ce qui est public est sur GitHub sous le nom [sneakyweasel](https://github.com/sneakyweasel) : 31 projets à moi et 25 forks dont je suis parti, depuis 2011, surtout les projets de recherche et les projets annexes décrits sur les autres pages.
+L'essentiel de ce que je fabrique est du code, et l'essentiel de ce code n'est pas sur GitHub. Je suis développeur full-stack, indépendant depuis 2016 : j'ai construit deux réseaux sociaux et une plateforme de trading de bout en bout, en Rails, Django et Laravel, et ce travail vit dans des dépôts privés. Ce qui est public est sur GitHub sous le nom [sneakyweasel](https://github.com/sneakyweasel) : 31 projets à moi et 25 forks dont je suis parti, depuis 2011, surtout les projets de recherche et les projets annexes décrits sur les autres pages.
 
 N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 
 ## 🏗 Full-stack, dans des dépôts privés
 
-Deux réseaux sociaux et une plateforme de trading, chacun construit de bout en bout, en Ruby on Rails, Django et Laravel. Ils vivent dans des dépôts privés, c'est pourquoi ils n'apparaissent pas ci-dessous.
+Deux réseaux sociaux et une plateforme de trading, chacun construit de bout en bout, en Ruby on Rails, Django et Laravel. Ils vivent dans des dépôts privés, c'est pourquoi ils n'apparaissent pas ci-dessous. Les postes et leurs dates sont sur la page [À propos](/fr/about/#parcours).
 
 ## 🧰 Langages
 
@@ -49,6 +49,7 @@ Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et J
 
 ## 🩺 Matériel libre pour la Covid-19
 
+- [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/) - le site que j'ai codé pour COVID3D-APHP, la fédération des initiatives de conception et d'impression 3D contre la Covid-19 en Île-de-France, cofondée en mars 2020 autour de la ferme d'impression 3D de l'hôpital Cochin : les modèles open source d'équipements de protection et de matériel médical conçus pour la crise. Le lien mène à la copie archivée.
 - [COVID](https://github.com/sneakyweasel/COVID) et [COVID-FR](https://github.com/sneakyweasel/COVID-FR) - la liste des projets de matériel médical d'urgence open source rassemblée au début de la pandémie, maintenue aujourd'hui sur [AmisDesMalades/COVID](https://github.com/AmisDesMalades/COVID)
 - [Respirateur-COVID](https://github.com/sneakyweasel/Respirateur-COVID) - un prototype de respirateur d'urgence construit autour d'un ballon Ambu
 - [OpenICU](https://github.com/sneakyweasel/OpenICU) - des idées pour une unité de soins intensifs à bas coût et de haut niveau

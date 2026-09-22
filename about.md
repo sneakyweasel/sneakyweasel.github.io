@@ -9,6 +9,13 @@ I make invisible things visible. I'm a French lead dev / CTO who builds language
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
 
+## 💼 Experience
+
+- **Full-stack developer and data scientist**, freelance, Paris, since 2016. See [Code](/code/) and [AI](/ai/).
+- **Co-founder and head of development, COVID3D-APHP**, Paris, March to December 2020. COVID3D-APHP federated the 3D design and printing initiatives against Covid-19 in the Paris region. With Roman Khonsari, Guillaume Tassin and Bone3D, we opened the first professional hospital 3D-printing farm, at Hôpital Cochin, within a week, to answer the equipment shortage. I coded [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/), which published the open-source models of protective and medical equipment designed for the crisis, and co-founded emergency.io to share them with medics and fablabs worldwide. [Le Parisien](https://www.leparisien.fr/high-tech/l-ap-hp-va-imprimer-en-3d-les-equipements-qui-manquent-dans-ses-hopitaux-03-04-2020-8293692.php) covered the farm.
+- **Lead developer, Centre for Quantum Technologies**, Singapore, August to November 2019, at the invitation of Artur Ekert: the open-source quantum optics simulator that became Virtual Lab. See [Quantum](/quantum/).
+- **Co-founder, CTO and lead developer, Eyes On Talents**, Paris, 2011 to 2013: a platform that brought the creative elite together with the great luxury houses.
+
 ## 🧙 Nerdy interests
 
 - Quantum physics & quantum computing (CQT Singapore, IBM quantum hardware, MIT iQuHACK 2023)
@@ -29,8 +36,8 @@ More on the [Art](/art/) page.
 
 ## 🌏 NGOs & associations
 
-- Co-founder of [Action Aide Asie](https://actionaideasie.com/), a medical NGO active in 7 South-East Asian countries, since 2007
-- Co-founder of [Action Aide Afrique](https://www.actionaideafrique.com/), a medical NGO active in African countries, since 2015
+- Co-founder and CTO of [Action Aide Asie](https://actionaideasie.com/), since 2007: a hospital NGO that builds and equips hospitals, trains medical staff and funds operations for children and young adults in Burma, Cambodia, India, Indonesia, Nepal, Sri Lanka and Vietnam
+- Co-founder and CTO of [Action Aide Afrique](https://www.actionaideafrique.com/): the same work in Benin, Burkina Faso, Cameroon, Côte d'Ivoire, Djibouti, Morocco, Niger and Rwanda
 - CTO of the [Amis des Malades de l'Hôpital Cochin](https://www.amisdesmalades.com/), a medical charity active in France, since 2004
 - Member of [Mensa](https://www.mensa.org/) France, member 13396
 

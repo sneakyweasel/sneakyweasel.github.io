@@ -7,13 +7,13 @@ ref: code
 
 🏆 **Webby Awards 2023 nominee.** The quantum optics simulator I lead-developed at CQT in Singapore, now Virtual Lab by Quantum Flytrap, was [nominated in the Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/) of the 2023 Webby Awards, the "Oscars of the Internet", with the Quantum Flytrap team, alongside NASA's Jet Propulsion Laboratory and OpenAI. The story is on the [Quantum](/quantum/) page.
 
-Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, mostly the research and side projects described on the other pages.
+Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer, freelance since 2016: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, mostly the research and side projects described on the other pages.
 
 Feel free to [contact me](mailto:philippe@cochin.fr)!
 
 ## 🏗 Full-stack, in private repositories
 
-Two social networks and a trading platform, each built end to end, in Ruby on Rails, Django and Laravel. They live in private repositories, which is why they do not appear below.
+Two social networks and a trading platform, each built end to end, in Ruby on Rails, Django and Laravel. They live in private repositories, which is why they do not appear below. The positions and their dates are on the [About](/about/#experience) page.
 
 ## 🧰 Languages
 
@@ -48,6 +48,7 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 
 ## 🩺 Covid-19 open hardware
 
+- [covid3d.org](https://web.archive.org/web/20200501153857/https://covid3d.org/) - the site I coded for COVID3D-APHP, the federation of 3D design and printing initiatives against Covid-19 in the Paris region, co-founded in March 2020 around the 3D-printing farm at Hôpital Cochin: the open-source models of protective and medical equipment designed for the crisis. The link is the archived copy.
 - [COVID](https://github.com/sneakyweasel/COVID) and [COVID-FR](https://github.com/sneakyweasel/COVID-FR) - the list of open-source emergency medical hardware projects gathered at the start of the pandemic, now kept at [AmisDesMalades/COVID](https://github.com/AmisDesMalades/COVID)
 - [Respirateur-COVID](https://github.com/sneakyweasel/Respirateur-COVID) - an emergency ventilator prototype built around an Ambu bag
 - [OpenICU](https://github.com/sneakyweasel/OpenICU) - ideas for a low-cost, high-grade intensive care unit
