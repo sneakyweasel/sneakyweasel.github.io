@@ -37,7 +37,7 @@ More on the [Art](/art/) page.
 ## 🌏 NGOs & associations
 
 - Co-founder and CTO of [Action Aide Asie](https://actionaideasie.com/), since 2007: a hospital NGO that builds and equips hospitals, trains medical staff and funds operations for children and young adults in Burma, Cambodia, India, Indonesia, Nepal, Sri Lanka and Vietnam
-- Co-founder and CTO of [Action Aide Afrique](https://www.actionaideafrique.com/): the same work in Benin, Burkina Faso, Cameroon, Côte d'Ivoire, Djibouti, Morocco, Niger and Rwanda
+- Co-founder and CTO of [Action Aide Afrique](https://www.actionaideafrique.com/), since 2014: the same work in Benin, Burkina Faso, Cameroon, Côte d'Ivoire, Djibouti, DR Congo, Morocco, Niger and Rwanda
 - CTO of the [Amis des Malades de l'Hôpital Cochin](https://www.amisdesmalades.com/), a medical charity active in France, since 2004
 - Member of [Mensa](https://www.mensa.org/) France, member 13396
 
@@ -46,8 +46,8 @@ More on the [Art](/art/) page.
 - Ironman triathlon (3.8 km swim, 180 km bike, 42 km run) - finisher, Nice 2023, in 15 hours
 - Ironman 70.3 (1.9 km swim, 90 km bike, 21 km run) - finisher, Aix-en-Provence 2022
 - Marathon - Paris Marathon, 2005
-- Thai boxing - French champion 2015 - amateur middleweight, assault - FFKMDA
-- Sailboat racing - silver medal 2007 - Grand Classique - Voiles de Saint-Tropez - crew, on the aft manoeuvres
+- Thai boxing - French champion 2007 - amateur middleweight, assault - [FFKMDA](https://www.ffkmda.com/)
+- Sailboat racing - silver medal 2019 - Grand Classique - Voiles de Saint-Tropez - crew, on the aft manoeuvres
 - Chess - [Arena Candidate Master](https://ratings.fide.com/profile/351104660), FIDE Online Arena title (FIDE ID 351104660)
 
 ## 🏆 Awards, medals, TV, etc.

@@ -38,7 +38,7 @@ Plus sur la page [Art](/fr/art/).
 ## 🌏 ONG et associations
 
 - Cofondateur et CTO d'[Action Aide Asie](https://actionaideasie.com/), depuis 2007 : association humanitaire hospitalière qui construit et équipe des hôpitaux, forme le personnel médical et finance des opérations pour des enfants et de jeunes adultes en Birmanie, au Cambodge, en Inde, en Indonésie, au Népal, au Sri Lanka et au Vietnam
-- Cofondateur et CTO d'[Action Aide Afrique](https://www.actionaideafrique.com/) : le même travail au Bénin, au Burkina Faso, au Cameroun, en Côte d'Ivoire, à Djibouti, au Maroc, au Niger et au Rwanda
+- Cofondateur et CTO d'[Action Aide Afrique](https://www.actionaideafrique.com/), depuis 2014 : le même travail au Bénin, au Burkina Faso, au Cameroun, en Côte d'Ivoire, à Djibouti, au Maroc, au Niger, en RD Congo et au Rwanda
 - CTO des [Amis des Malades de l'Hôpital Cochin](https://www.amisdesmalades.com/), association médicale active en France, depuis 2004
 - Membre de [Mensa](https://www.mensa.org/) France, membre 13396
 
@@ -47,8 +47,8 @@ Plus sur la page [Art](/fr/art/).
 - Triathlon Ironman (3,8 km de natation, 180 km de vélo, 42 km de course) - finisher, Nice 2023, en 15 heures
 - Ironman 70.3 (1,9 km de natation, 90 km de vélo, 21 km de course) - finisher, Aix-en-Provence 2022
 - Marathon - Marathon de Paris, 2005
-- Boxe thaï - champion de France 2015 - poids moyens amateur, assaut - FFKMDA
-- Régate - médaille d'argent 2007 - Grand Classique - Voiles de Saint-Tropez - équipier, aux manœuvres d'arrière
+- Boxe thaï - champion de France 2007 - poids moyens amateur, assaut - [FFKMDA](https://www.ffkmda.com/)
+- Régate - médaille d'argent 2019 - Grand Classique - Voiles de Saint-Tropez - équipier, aux manœuvres d'arrière
 - Échecs - [Arena Candidate Master](https://ratings.fide.com/profile/351104660), titre FIDE Online Arena (identifiant FIDE 351104660)
 
 ## 🏆 Prix, médailles, télévision, etc.
