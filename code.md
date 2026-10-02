@@ -10,9 +10,11 @@ description: "Full-stack developer: two social networks and a trading platform i
 
 Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer, freelance since 2016: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel), since 2011: mostly the research and side projects described on the other pages.
 
-## 🏗 Full-stack, in private repositories
+## 🏗 In private repositories
 
 Two social networks and a trading platform, each built end to end, in Ruby on Rails, Django and Laravel. They live in private repositories, which is why they do not appear below. The positions and their dates are on the [About](/about/#experience) page.
+
+Also private: frontier-lab, formerly btlab, the balanced ternary laboratory: exact arithmetic, the Juggler and 3n−1 programmes, a Lean 4 + Mathlib formal layer and a CUDA verifier (Python, Lean, LaTeX, CUDA). See [Math](/math/).
 
 ## 🧰 Languages
 
@@ -20,7 +22,6 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 
 ## 🔢 Number theory and formal proof
 
-- frontier-lab (private, formerly btlab) - the balanced ternary laboratory: exact arithmetic, the Juggler and 3n−1 programmes, a Lean 4 + Mathlib formal layer and a CUDA verifier (Python, Lean, LaTeX, CUDA). See [Math](/math/).
 - [WarpPrimes](https://github.com/sneakyweasel/WarpPrimes) - the generator behind my OEIS sequences, with a D3 Ulam spiral (Python, JavaScript)
 - [padic-rust](https://github.com/sneakyweasel/padic-rust) and [padic-ts](https://github.com/sneakyweasel/padic-ts) - p-adic number libraries in Rust and in TypeScript
 - [Euler](https://github.com/sneakyweasel/Euler) and [DNA](https://github.com/sneakyweasel/DNA) - Project Euler in Ruby, Rosalind bioinformatics in Python
@@ -56,8 +57,4 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 - [HoloWeasel](https://github.com/sneakyweasel/HoloWeasel) - a Looking Glass holographic display driven with Three.js and WebGL shaders (JavaScript, GLSL)
 - [ts-grid](https://github.com/sneakyweasel/ts-grid) - a TypeScript port of Red Blob Games' grid parts: square, triangle and hexagonal grids with their edges, vertices and tiles
 
-## 🌐 Web and tooling
-
-- [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io) - this site, Jekyll on GitHub Pages
-
-The forks I worked from, from Auto-GPT to the Game of Life in Rust and WebAssembly, are on [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).
+This site is [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io), Jekyll on GitHub Pages. The forks I worked from, from Auto-GPT to the Game of Life in Rust and WebAssembly, are on [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).

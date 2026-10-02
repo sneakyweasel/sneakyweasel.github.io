@@ -10,9 +10,11 @@ description: "Développeur full-stack : deux réseaux sociaux et une plateforme
 
 L'essentiel de ce que je fabrique est du code, et l'essentiel de ce code n'est pas sur GitHub. Je suis développeur full-stack, indépendant depuis 2016 : j'ai construit deux réseaux sociaux et une plateforme de trading de bout en bout, en Rails, Django et Laravel, et ce travail vit dans des dépôts privés. Ce qui est public est sur GitHub sous le nom [sneakyweasel](https://github.com/sneakyweasel), depuis 2011 : surtout les projets de recherche et les projets annexes décrits sur les autres pages.
 
-## 🏗 Full-stack, dans des dépôts privés
+## 🏗 Dans des dépôts privés
 
 Deux réseaux sociaux et une plateforme de trading, chacun construit de bout en bout, en Ruby on Rails, Django et Laravel. Ils vivent dans des dépôts privés, c'est pourquoi ils n'apparaissent pas ci-dessous. Les postes et leurs dates sont sur la page [À propos](/fr/about/#parcours).
+
+Privé lui aussi : frontier-lab, anciennement btlab, le laboratoire de ternaire équilibré : arithmétique exacte, les programmes Juggler et 3n−1, une couche formelle Lean 4 + Mathlib et un vérificateur CUDA (Python, Lean, LaTeX, CUDA). Voir [Maths](/fr/math/).
 
 ## 🧰 Langages
 
@@ -20,7 +22,6 @@ Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et J
 
 ## 🔢 Théorie des nombres et preuve formelle
 
-- frontier-lab (privé, anciennement btlab) - le laboratoire de ternaire équilibré : arithmétique exacte, les programmes Juggler et 3n−1, une couche formelle Lean 4 + Mathlib et un vérificateur CUDA (Python, Lean, LaTeX, CUDA). Voir [Maths](/fr/math/).
 - [WarpPrimes](https://github.com/sneakyweasel/WarpPrimes) - le générateur derrière mes suites de l'OEIS, avec une spirale d'Ulam en D3 (Python, JavaScript)
 - [padic-rust](https://github.com/sneakyweasel/padic-rust) et [padic-ts](https://github.com/sneakyweasel/padic-ts) - des bibliothèques de nombres p-adiques en Rust et en TypeScript
 - [Euler](https://github.com/sneakyweasel/Euler) et [DNA](https://github.com/sneakyweasel/DNA) - Project Euler en Ruby, la bio-informatique de Rosalind en Python
@@ -56,8 +57,4 @@ Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et J
 - [HoloWeasel](https://github.com/sneakyweasel/HoloWeasel) - un écran holographique Looking Glass piloté avec Three.js et des shaders WebGL (JavaScript, GLSL)
 - [ts-grid](https://github.com/sneakyweasel/ts-grid) - un portage TypeScript des grilles de Red Blob Games : grilles carrées, triangulaires et hexagonales avec leurs arêtes, sommets et tuiles
 
-## 🌐 Web et outillage
-
-- [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io) - ce site, Jekyll sur GitHub Pages
-
-Les forks dont je suis parti, d'Auto-GPT au jeu de la vie en Rust et WebAssembly, sont sur [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).
+Ce site est [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io), en Jekyll sur GitHub Pages. Les forks dont je suis parti, d'Auto-GPT au jeu de la vie en Rust et WebAssembly, sont sur [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).

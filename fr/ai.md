@@ -32,4 +32,4 @@ N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 
 ## 📜 Certificats
 
-- [Deep Learning Specialization](https://coursera.org/share/060c260c19a2007f337dfae390fe4382) et [Generative AI with Large Language Models](https://coursera.org/share/e39f9086732f131d4d6b0fef988d9d82), tous deux d'Andrew Ng. La liste complète est sur la page [Certifications](/fr/certifications/).
+- [Deep Learning Specialization](https://coursera.org/share/060c260c19a2007f337dfae390fe4382) et [Generative AI with Large Language Models](https://coursera.org/share/e39f9086732f131d4d6b0fef988d9d82), le premier d'Andrew Ng, le second de DeepLearning.AI avec AWS. La liste complète est sur la page [Certifications](/fr/certifications/).
