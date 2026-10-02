@@ -3,7 +3,7 @@ layout: page
 title: À propos
 permalink: /fr/about/
 ref: about
-description: "Lead dev / CTO en IA, ancien développeur principal au CQT de Singapour, philosophe et théologien de formation, bijoutier de l'École Boulle, musicien, triathlète Ironman."
+description: "Lead dev / CTO en IA, ancien développeur principal au CQT de Singapour, philosophe et théologien, bijoutier de l'École Boulle, musicien, triathlète Ironman."
 ---
 
 Je rends visibles les choses invisibles. Je suis un lead dev / CTO français dont le métier est de construire des systèmes à base de modèles de langage, actuellement en freelance ; à Singapour, j'ai construit un simulateur d'optique quantique sur lequel apprennent des milliers d'étudiants. J'ai étudié la philosophie et la théologie pendant quatre ans et je donne parfois des conférences à l'université. J'ai été formé à la bijouterie à l'École Boulle et je sors des chansons sous le nom de [Small Warm Things](/fr/art/). Côté mathématiques, je maintiens un [laboratoire de recherche sur le ternaire équilibré](/fr/math/) et je contribue à l'[OEIS](https://oeis.org/wiki/User:Philippe_Cochin). Je suis aussi triathlète Ironman, et j'aime la complexité et les nouveaux défis. Je travaille indifféremment en français et en anglais, et je me débrouille en espagnol.

@@ -3,7 +3,7 @@ layout: page
 title: Maths
 permalink: /fr/math/
 ref: math
-description: "L'application Juggler et les applications de Collatz signées : six prépublications, le laboratoire frontier-lab, son compagnon visuel, Frontier Forge, et trois suites de l'OEIS en ternaire équilibré."
+description: "L'application Juggler et les applications de Collatz signées : six prépublications, le laboratoire frontier-lab et trois suites de l'OEIS en ternaire équilibré."
 ---
 
 J'aime les représentations des nombres qui rendent la structure visible. Le ternaire équilibré, où chaque entier est un unique mot sur les chiffres `-`, `0`, `+`, est ma préférée, et l'essentiel de mon travail mathématique depuis 2019 en découle. Ce travail porte aujourd'hui sur deux problèmes ouverts, l'application Juggler et les applications de Collatz signées, travaillés dans un seul laboratoire, rédigés en six prépublications et dessinés sur un site compagnon.

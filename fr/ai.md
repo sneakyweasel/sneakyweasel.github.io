@@ -3,10 +3,10 @@ layout: page
 title: IA
 permalink: /fr/ai/
 ref: ai
-description: "Systèmes LLM en production, workflows agentiques, modèles locaux, pipelines de médias génératifs et recherche avec des modèles, par un développeur qui travaille sur l'IA depuis 2016."
+description: "Systèmes LLM en production, workflows agentiques, modèles locaux, médias génératifs et recherche avec des modèles, par un développeur en IA depuis 2016."
 ---
 
-Je travaille sur l'IA depuis 2016 et construire des systèmes à base de modèles de langage est mon métier, aujourd'hui en freelance. Avec [Logicien](https://www.logicien.fr), je construis des IA sur mesure pour les organisations qui veulent en garder la maîtrise : leur code, leur infrastructure. Ce qui suit est ce que je fais réellement, avec les dépôts qui le montrent.
+Je travaille sur l'IA depuis 2016 et construire des systèmes à base de modèles de langage est mon métier, aujourd'hui en freelance : des IA sur mesure pour les organisations qui veulent en garder la maîtrise, leur code et leur infrastructure. Ce qui suit est ce que je fais réellement, avec les dépôts qui le montrent.
 
 N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 

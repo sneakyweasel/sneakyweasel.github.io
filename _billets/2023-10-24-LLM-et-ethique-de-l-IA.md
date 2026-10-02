@@ -5,6 +5,7 @@ date:   2023-10-24 16:13:05 +0200
 categories: AI
 ref: ethics
 permalink: /fr/ai/2023/10/24/LLM-et-ethique-de-l-IA.html
+description: "Notes d'une intervention devant des éthiciens : pourquoi « intelligence » est le mauvais mot, et ce que la prédiction du prochain token est et n'est pas."
 excerpt: "Notes d'une intervention devant un panel d'éthiciens : pourquoi « intelligence » est le mauvais mot, ce que la prédiction du prochain token est et n'est pas, et ce que coûterait une religion sur mesure."
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Quantique
 permalink: /fr/quantum/
 ref: quantum
-description: "Correction d'erreurs quantiques avec Decodoku, le simulateur d'optique quantique Quantum Game au CQT de Singapour, devenu Virtual Lab, et le hackathon MIT iQuHACK 2023."
+description: "Correction d'erreurs quantiques avec Decodoku, le simulateur d'optique quantique Quantum Game au CQT de Singapour, devenu Virtual Lab, et MIT iQuHACK 2023."
 ---
 
 La physique quantique, et surtout l'optique quantique, me fascine depuis longtemps, et j'ai eu la chance de travailler avec certains des meilleurs chercheurs du domaine.

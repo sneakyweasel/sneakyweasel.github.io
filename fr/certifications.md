@@ -3,7 +3,7 @@ layout: page
 title: Certifications
 permalink: /fr/certifications/
 ref: certifications
-description: "Deux écoles, l'École Boulle et l'Institut Catholique de Paris, et douze certificats Coursera en deep learning, LLM, optique quantique et Fusion 360, chacun relié à sa fiche vérifiable."
+description: "Deux écoles, l'École Boulle et l'Institut Catholique de Paris, et douze certificats Coursera en deep learning, LLM, optique quantique et Fusion 360."
 ---
 
 <style>

@@ -5,6 +5,7 @@ date:   2026-09-21 16:00:00 +0200
 categories: AI
 ref: narrowing
 permalink: /fr/ai/2026/09/21/narrowing.html
+description: "Un seul nombre, l'information mutuelle ponctuelle entre une ligne et ce qui la prépare, testé sur des blagues, des chansons, des preuves Lean et un casque EEG."
 excerpt: "Un seul nombre, l'information mutuelle ponctuelle entre une ligne et ce qui la prépare, testé sur des blagues, trois mille chansons, quatre mille preuves Lean et un casque EEG."
 ---
 

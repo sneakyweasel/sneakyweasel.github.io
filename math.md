@@ -3,7 +3,7 @@ layout: page
 title: Math
 permalink: /math/
 ref: math
-description: "The Juggler map and the signed Collatz maps: six preprints, the frontier-lab laboratory, its visual companion, Frontier Forge, and three OEIS sequences in balanced ternary."
+description: "The Juggler map and the signed Collatz maps: six preprints, the frontier-lab laboratory, its visual companion, and three OEIS sequences in balanced ternary."
 ---
 
 I like number representations that make structure visible. Balanced ternary, where every integer is one unique word over the digits `-`, `0`, `+`, is my favourite, and most of my mathematical work since 2019 grows out of it. Today that work is two open problems, the Juggler map and the signed Collatz maps, worked in one laboratory, written up as six preprints and drawn on a companion site.

@@ -9,6 +9,8 @@ site.posts on the English home, site.billets on the French one.
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
+  {%- else -%}
+    <h1 class="visually-hidden">{{ site.title | escape }}</h1>
   {%- endif -%}
 
   {{ content }}

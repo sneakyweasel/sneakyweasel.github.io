@@ -3,7 +3,7 @@ layout: page
 title: Code
 permalink: /code/
 ref: code
-description: "Full-stack developer: two social networks and a trading platform in Rails, Django and Laravel in private repositories, and sneakyweasel's public projects on GitHub, by subject."
+description: "Full-stack developer: two social networks and a trading platform in Rails, Django and Laravel, and sneakyweasel's public projects on GitHub, by subject."
 ---
 
 🏆 **Webby Awards 2023 nominee**, in the [Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/), for the quantum optics simulator I lead-developed at CQT in Singapore, now Virtual Lab by Quantum Flytrap. The story is on the [Quantum](/quantum/) page.
