@@ -6,11 +6,9 @@ ref: code
 description: "Full-stack developer: two social networks and a trading platform in Rails, Django and Laravel in private repositories, and sneakyweasel's public projects on GitHub, by subject."
 ---
 
-🏆 **Webby Awards 2023 nominee.** The quantum optics simulator I lead-developed at CQT in Singapore, now Virtual Lab by Quantum Flytrap, was [nominated in the Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/) of the 2023 Webby Awards, the "Oscars of the Internet", with the Quantum Flytrap team, alongside NASA's Jet Propulsion Laboratory and OpenAI. [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-flytraps-virtual-quantum-lab-receives-webby-award-nomination-quantum-game-gets-worldwide-recognition/) covered the nomination. The story is on the [Quantum](/quantum/) page.
+🏆 **Webby Awards 2023 nominee**, in the [Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/), for the quantum optics simulator I lead-developed at CQT in Singapore, now Virtual Lab by Quantum Flytrap. The story is on the [Quantum](/quantum/) page.
 
-Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer, freelance since 2016: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel): 31 projects of my own and 25 forks I worked from, since 2011, mostly the research and side projects described on the other pages.
-
-Feel free to [contact me](mailto:philippe@cochin.fr)!
+Most of what I make is code, and most of it is not on GitHub. I am a full-stack developer, freelance since 2016: I have built two social networks and a trading platform end to end, in Rails, Django and Laravel, and that work lives in private repositories. What is public is on GitHub as [sneakyweasel](https://github.com/sneakyweasel), since 2011: mostly the research and side projects described on the other pages.
 
 ## 🏗 Full-stack, in private repositories
 
@@ -41,7 +39,6 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 - [genetic-growth](https://github.com/sneakyweasel/genetic-growth) - embryology-inspired growth encoded as a small opcode "DNA", run tick by tick on a Voronoi tissue (TypeScript)
 - [open-catholic](https://github.com/sneakyweasel/open-catholic) - the Catechism of the Catholic Church converted to Markdown with internal links, as a readable text and a retrieval corpus
 - [mimic-octopus](https://github.com/sneakyweasel/mimic-octopus) - a 2015 chat bot on Hubot, my first "axiomatic philosophical AI"
-- Worked from: [Auto-GPT](https://github.com/sneakyweasel/Auto-GPT), a personal [GPT Telegram bot](https://github.com/sneakyweasel/chatgpt_telegram_bot), a16z's [AI companions with memory](https://github.com/sneakyweasel/catholicum-companion), Stable Diffusion [textual inversion](https://github.com/sneakyweasel/sd-enable-textual-inversion), [TensorFlow object detection on a Raspberry Pi](https://github.com/sneakyweasel/TF-OD-Pi-Test), an [LSTM trading model](https://github.com/sneakyweasel/freqAI-LSTM) and [OpenNFB](https://github.com/sneakyweasel/OpenNFB) neurofeedback
 
 ## 🔐 Cybersecurity
 
@@ -59,10 +56,10 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 - [GameOfFire](https://github.com/sneakyweasel/GameOfFire) - the Quanta Magazine tribute to Conway (Vue, TypeScript)
 - [HoloWeasel](https://github.com/sneakyweasel/HoloWeasel) - a Looking Glass holographic display driven with Three.js and WebGL shaders (JavaScript, GLSL)
 - [ts-grid](https://github.com/sneakyweasel/ts-grid) - a TypeScript port of Red Blob Games' grid parts: square, triangle and hexagonal grids with their edges, vertices and tiles
-- Worked from: the Game of Life in [Vue 2](https://github.com/sneakyweasel/Game-of-Life-Vue2) and in [Rust and WebAssembly](https://github.com/sneakyweasel/wasm_game_of_life), [particle-life](https://github.com/sneakyweasel/particle-life), the Rust tactics game [zemeroth](https://github.com/sneakyweasel/zemeroth), a [minesweeper Vue component](https://github.com/sneakyweasel/vue-defuse), Bret Victor's [Alligator Eggs](https://github.com/sneakyweasel/AlligatorEggs) lambda calculus, and [OpenRelativity](https://github.com/sneakyweasel/OpenRelativity)
 
 ## 🌐 Web and tooling
 
 - [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io) - this site, Jekyll on GitHub Pages
 - [rails-devise-pundit](https://github.com/sneakyweasel/rails-devise-pundit) - Rails authentication and authorisation boilerplate
-- Worked from: a [TypeScript library starter](https://github.com/sneakyweasel/typescript-library-starter), the [React, Redux and TypeScript guide](https://github.com/sneakyweasel/react-redux-typescript-guide), [hubot-meteorchat](https://github.com/sneakyweasel/hubot-meteorchat), [vim-sneak](https://github.com/sneakyweasel/vim-sneak), a pure-Python [Held-Karp](https://github.com/sneakyweasel/held-karp) and Tom Stuart's [Programming with Nothing](https://github.com/sneakyweasel/nothing)
+
+The forks I worked from, from Auto-GPT to the Game of Life in Rust and WebAssembly, are on [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).

@@ -8,13 +8,15 @@ description: "Quantum error correction with Decodoku, the quantum optics simulat
 
 I've been fascinated by quantum physics, and especially quantum optics, for a long time, and I've had the opportunity to work with some of the best researchers in the field.
 
-Feel free to [contact me](mailto:philippe@cochin.fr)!
-
 ## 🍩 Quantum error correction
 
 I took part in [Decodoku](https://arxiv.org/abs/1608.05053), James Wootton's citizen-science project on toric-code quantum error correction at the University of Basel. My custom genetic algorithm for its puzzles is cited as reference 17 of the resulting paper, *A proposal for a minimal surface code experiment*, Phys. Rev. A 96, 032338 (2017), and led to the deterministic "Weasel toric code" algorithm, which ran on IBM quantum hardware. Code: [genetic-quantum-correction](https://github.com/sneakyweasel/genetic-quantum-correction).
 
 ## 🔬 Quantum optics
+
+<a href="https://lab.quantumflytrap.com/lab/mach-zehnder"><img src="/assets/images/virtual-lab.webp" width="1600" height="1000" style="display: block; width: 100%; height: auto; border-radius: 12px;" loading="lazy" alt="Virtual Lab by Quantum Flytrap running a Mach-Zehnder interferometer: a laser, two beam splitters, two mirrors and two detectors on a grid, with a single photon in superposition on both arms and its two amplitudes listed on the right"></a>
+
+*Virtual Lab by Quantum Flytrap: one photon on both arms of a Mach-Zehnder interferometer.*
 
 - At the invitation of Artur Ekert, I joined the [Centre for Quantum Technologies](https://www.cqt.sg/) in Singapore from August to November 2019 as lead developer of the first graphical quantum optics simulator, [Quantum Game](https://quantumgame.io/), which grew into Virtual Lab by Quantum Flytrap. It runs in the browser, on a sparse-matrix quantum library in TypeScript, [quantum-tensors](https://github.com/Quantum-Flytrap/quantum-tensors), under a front end in Vue.js and native SVG. Virtual Lab is now used by thousands of students and researchers around the world.
 - With the Quantum Flytrap team we were nominated for the 2023 [Webby Awards](https://en.wikipedia.org/wiki/Webby_Awards), the "Digital Oscars", in the [Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/), alongside NASA's Jet Propulsion Laboratory and OpenAI. [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-flytraps-virtual-quantum-lab-receives-webby-award-nomination-quantum-game-gets-worldwide-recognition/) covered the nomination.

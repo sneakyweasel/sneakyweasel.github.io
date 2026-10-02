@@ -9,8 +9,6 @@ description: "Bijouterie, avec une formation à l'École Boulle, et musique sous
 
 Le code n'est pas la seule chose que je fabrique. Deux autres choses arrivent au bout et sortent : des bijoux, et des chansons.
 
-N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
-
 ## 💎 Bijouterie
 
 Je suis bijoutier-joaillier et designer diplômé, formé à l'École Boulle à Paris. Mes pièces sont sur Instagram : [@cochinjewellery](https://www.instagram.com/cochinjewellery/).

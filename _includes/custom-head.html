@@ -24,8 +24,12 @@
 {%- endif %}
 <style>
 .site-header { border-top: 0; }
-.site-nav .lang-switch { display: inline-block; line-height: 0; vertical-align: middle; }
-.site-nav .lang-switch .flag { width: 21px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(128, 128, 128, 0.45); opacity: 0.85; transition: opacity 0.15s; }
-.site-nav .lang-switch:hover .flag, .site-nav .lang-switch:focus .flag { opacity: 1; }
-@media screen and (max-width: 600px) { .site-nav .lang-switch { display: block; line-height: 14px; } }
+.site-nav .lang-switch { font-size: 0.8em; font-weight: 600; letter-spacing: 0.04em; padding: 1px 6px; border: 1px solid rgba(128, 128, 128, 0.45); border-radius: 4px; }
+@media screen and (max-width: 600px) { .site-nav .lang-switch { display: inline-block; margin: 6px 22px 10px 0; } }
+.post-content details { margin: 2px 0 10px; }
+.post-content summary { cursor: pointer; font-size: 0.9em; color: #828282; }
+/* The theme draws the menu button with the Font Awesome font, which this site does not load: draw it here. */
+.site-nav #nav-trigger ~ label[for=nav-trigger] .menu-icon::before, .site-nav #nav-trigger:checked ~ label[for=nav-trigger] .menu-icon::before { content: ""; display: inline-block; width: 18px; height: 14px; font-size: inherit; background-color: currentColor; -webkit-mask: var(--menu-icon) center / contain no-repeat; mask: var(--menu-icon) center / contain no-repeat; }
+.site-nav #nav-trigger ~ label[for=nav-trigger] .menu-icon { --menu-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 14'%3E%3Cpath d='M0 0h18v2H0zM0 6h18v2H0zM0 12h18v2H0z'/%3E%3C/svg%3E"); }
+.site-nav #nav-trigger:checked ~ label[for=nav-trigger] .menu-icon { --menu-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 12'%3E%3Cpath d='M4.4 0 9 4.6 13.6 0 15 1.4 10.4 6 15 10.6 13.6 12 9 7.4 4.4 12 3 10.6 7.6 6 3 1.4z'/%3E%3C/svg%3E"); }
 </style>
