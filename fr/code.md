@@ -22,7 +22,7 @@ Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et J
 
 ## 🔢 Théorie des nombres et preuve formelle
 
-- [btlab](https://github.com/sneakyweasel/btlab) - le laboratoire de ternaire équilibré : arithmétique exacte, les programmes Juggler et 3n−1, une couche formelle Lean 4 + Mathlib et un vérificateur CUDA (Python, Lean, LaTeX, CUDA). Voir [Maths](/fr/math/).
+- frontier-lab (privé, anciennement btlab) - le laboratoire de ternaire équilibré : arithmétique exacte, les programmes Juggler et 3n−1, une couche formelle Lean 4 + Mathlib et un vérificateur CUDA (Python, Lean, LaTeX, CUDA). Voir [Maths](/fr/math/).
 - [WarpPrimes](https://github.com/sneakyweasel/WarpPrimes) - le générateur derrière mes suites de l'OEIS, avec une spirale d'Ulam en D3 (Python, JavaScript)
 - [padic-rust](https://github.com/sneakyweasel/padic-rust) et [padic-ts](https://github.com/sneakyweasel/padic-ts) - des bibliothèques de nombres p-adiques en Rust et en TypeScript
 - [Euler](https://github.com/sneakyweasel/Euler) et [DNA](https://github.com/sneakyweasel/DNA) - Project Euler en Ruby, la bio-informatique de Rosalind en Python
