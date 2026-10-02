@@ -3,6 +3,7 @@ layout: page
 title: Code
 permalink: /code/
 ref: code
+description: "Full-stack developer: two social networks and a trading platform in Rails, Django and Laravel in private repositories, and sneakyweasel's public projects on GitHub, by subject."
 ---
 
 🏆 **Webby Awards 2023 nominee.** The quantum optics simulator I lead-developed at CQT in Singapore, now Virtual Lab by Quantum Flytrap, was [nominated in the Science category](https://www.webbyawards.com/crafted-with-code/virtual-quantum-lab/) of the 2023 Webby Awards, the "Oscars of the Internet", with the Quantum Flytrap team, alongside NASA's Jet Propulsion Laboratory and OpenAI. [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-flytraps-virtual-quantum-lab-receives-webby-award-nomination-quantum-game-gets-worldwide-recognition/) covered the nomination. The story is on the [Quantum](/quantum/) page.

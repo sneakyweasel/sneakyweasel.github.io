@@ -1,9 +1,10 @@
 {%- comment -%}
 Copy of minima's footer with the description, the social link titles and the
-feed link following the page's language.
+feed link following the page's language. The brand icons are inline SVGs from
+_includes/icons/, named after each link's `icon` in _config.yml (Font Awesome
+Free 7.0.0, CC BY 4.0), so no stylesheet is fetched from a CDN.
 {%- endcomment -%}
 {%- include i18n.html -%}
-<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css">
 
 <footer class="site-footer h-card">
   <data class="u-url" value="{{ home_url | relative_url }}"></data>
@@ -40,8 +41,8 @@ feed link following the page's language.
           {%- assign entry_title = entry.title_fr -%}
         {%- endif %}
         <li>
-          <a rel="me" href="{{ entry.url }}" target="_blank" title="{{ entry_title | escape }}">
-            <span class="grey fa-brands fa-{{ entry.icon }} fa-lg"></span>
+          <a rel="me" href="{{ entry.url }}" target="_blank" title="{{ entry_title | escape }}" aria-label="{{ entry_title | escape }}">
+            {% include icons/{{ entry.icon }}.svg %}
           </a>
         </li>
       {%- endfor %}

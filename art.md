@@ -3,6 +3,7 @@ layout: page
 title: Art
 permalink: /art/
 ref: art
+description: "Jewellery, with training at the École Boulle, and music as Small Warm Things: the first album, Music for Datacenters."
 image: /assets/images/ring-blue-stone.webp
 ---
 

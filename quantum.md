@@ -3,6 +3,7 @@ layout: page
 title: Quantum
 permalink: /quantum/
 ref: quantum
+description: "Quantum error correction with Decodoku, the quantum optics simulator Quantum Game at CQT in Singapore, now Virtual Lab, and the MIT iQuHACK 2023 hackathon."
 ---
 
 I've been fascinated by quantum physics, and especially quantum optics, for a long time, and I've had the opportunity to work with some of the best researchers in the field.

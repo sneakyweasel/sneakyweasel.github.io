@@ -17,6 +17,11 @@
 {%- if lang == "fr" %}
 <link type="application/atom+xml" rel="alternate" href="{{ '/fr/feed.xml' | absolute_url }}" title="{{ site.title | escape }} (fr)">
 {%- endif %}
+{%- if page.ref == "home" or page.ref == "about" %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":{{ site.author.name | jsonify }},"url":{{ "/" | absolute_url | jsonify }},"image":{{ "/assets/icons/weasel-square.png" | absolute_url | jsonify }},"sameAs":{{ site.minima.social_links | map: "url" | jsonify }}}
+</script>
+{%- endif %}
 <style>
 .site-header { border-top: 0; }
 .site-nav .lang-switch { display: inline-block; line-height: 0; vertical-align: middle; }

@@ -3,6 +3,7 @@ layout: page
 title: AI
 permalink: /ai/
 ref: ai
+description: "LLM systems in production, agentic workflows, local models, generative media pipelines and research with models, by a developer who has worked on AI since 2016."
 ---
 
 I've worked on AI since 2016 and I build language-model systems for a living, currently as a freelancer. Through [Logicien](https://www.logicien.fr) I build custom AI for organisations that want to own it: their code and their infrastructure. What follows is what I actually do, with the repositories that show it.

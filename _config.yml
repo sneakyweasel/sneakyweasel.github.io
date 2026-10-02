@@ -1,6 +1,10 @@
 # Site settings. Templates read these as site.title, site.email, and so on.
 title: Philippe Cochin
 email: philippe@cochin.fr
+# The footer, the feeds and jekyll-seo-tag read the author from here.
+author:
+  name: Philippe Cochin
+  email: philippe@cochin.fr
 description: AI, quantum physics, mathematics, code and art, from Paris.
 description_fr: IA, physique quantique, mathématiques, code et art, depuis Paris.
 baseurl: ""
@@ -18,6 +22,8 @@ defaults:
       path: ""
     values:
       lang: en
+      # Link-preview image of every page that does not set its own.
+      image: /assets/images/header.webp
   - scope:
       path: fr
     values:

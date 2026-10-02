@@ -3,6 +3,7 @@ layout: page
 title: Certifications
 permalink: /certifications/
 ref: certifications
+description: "Two schools, the École Boulle and the Institut Catholique de Paris, and twelve Coursera certificates in deep learning, LLMs, quantum optics and Fusion 360, each linked to its verifiable record."
 ---
 
 <style>

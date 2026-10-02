@@ -121,7 +121,7 @@ Redundant data and biases must be avoided, markup cleaned, and so on.
 - Common Crawl (98.38 TiB): <https://commoncrawl.org/>
 - The Pile (825 GiB): <https://pile.eleuther.ai/>
 - Wikipedia dumps: <https://dumps.wikimedia.org/>
-- Wiki dump preprocessing: <https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67>
+- Wiki dump preprocessing: <https://web.archive.org/web/20220927154038/https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67>
 - OSCAR: <https://oscar-project.github.io/documentation/versions/oscar-2301/>
 
 ### Domain corpus
