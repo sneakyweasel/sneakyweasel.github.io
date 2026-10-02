@@ -38,7 +38,6 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 
 - [genetic-growth](https://github.com/sneakyweasel/genetic-growth) - embryology-inspired growth encoded as a small opcode "DNA", run tick by tick on a Voronoi tissue (TypeScript)
 - [open-catholic](https://github.com/sneakyweasel/open-catholic) - the Catechism of the Catholic Church converted to Markdown with internal links, as a readable text and a retrieval corpus
-- [mimic-octopus](https://github.com/sneakyweasel/mimic-octopus) - a 2015 chat bot on Hubot, my first "axiomatic philosophical AI"
 
 ## 🔐 Cybersecurity
 
@@ -60,6 +59,5 @@ Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and J
 ## 🌐 Web and tooling
 
 - [sneakyweasel.github.io](https://github.com/sneakyweasel/sneakyweasel.github.io) - this site, Jekyll on GitHub Pages
-- [rails-devise-pundit](https://github.com/sneakyweasel/rails-devise-pundit) - Rails authentication and authorisation boilerplate
 
 The forks I worked from, from Auto-GPT to the Game of Life in Rust and WebAssembly, are on [GitHub](https://github.com/sneakyweasel?tab=repositories&type=fork).
