@@ -17,23 +17,15 @@ Feel free to [contact me](mailto:philippe@cochin.fr)!
 - **Lead developer, Centre for Quantum Technologies**, Singapore, August to November 2019, at the invitation of Artur Ekert: the open-source quantum optics simulator that became Virtual Lab. See [Quantum](/quantum/).
 - **Co-founder, CTO and lead developer, Eyes On Talents**, Paris, 2011 to 2013: a platform that brought the creative elite together with the great luxury houses.
 
-## 🧙 Nerdy interests
+## 🧙 Other interests
 
-- Quantum physics & quantum computing (CQT Singapore, IBM quantum hardware, MIT iQuHACK 2023)
-- Number theory & integer sequences (balanced ternary, the [Juggler map](/math/), OEIS contributor)
-- Machine learning, deep learning & LLMs
-- Philosophy & theology (4 years of studies at ICP Paris)
-- Full-stack development and competitive programming
-- Cybersecurity (CTF, bug bounty, etc.)
+The main threads have their own pages: [AI](/ai/), [Quantum](/quantum/), [Math](/math/), [Code](/code/) and [Art](/art/). What does not fit there:
 
-## 💎 Artistic interests
-
-- Certified jewellery designer (École Boulle), pieces on [Instagram](https://www.instagram.com/cochinjewellery/)
-- Music, released as [Small Warm Things](https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU) on Spotify
-- 3D modelling, 3D printing & CNC
+- Philosophy and theology, studied at the Institut Catholique de Paris, the background behind my talks on AI ethics
+- Competitive programming: Project Euler and Rosalind
+- Cybersecurity: CTFs and bug bounty
+- 3D modelling, 3D printing and CNC machining
 - Generative art
-
-More on the [Art](/art/) page.
 
 ## 🌏 NGOs & associations
 

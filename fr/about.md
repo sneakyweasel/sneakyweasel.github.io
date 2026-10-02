@@ -17,23 +17,15 @@ N'hésitez pas à [me contacter](mailto:philippe@cochin.fr) !
 - **Développeur principal, Centre for Quantum Technologies**, Singapour, d'août à novembre 2019, à l'invitation d'Artur Ekert : le simulateur d'optique quantique open source devenu Virtual Lab. Voir [Quantique](/fr/quantum/).
 - **Cofondateur, CTO et développeur principal, Eyes On Talents**, Paris, de 2011 à 2013 : une plateforme qui rassemblait l'élite créative et la mettait en relation avec les grandes maisons.
 
-## 🧙 Intérêts de geek
+## 🧙 Autres centres d'intérêt
 
-- Physique quantique et informatique quantique (CQT Singapour, matériel quantique IBM, MIT iQuHACK 2023)
-- Théorie des nombres et suites d'entiers (ternaire équilibré, l'[application Juggler](/fr/math/), contributeur à l'OEIS)
-- Machine learning, deep learning et LLM
-- Philosophie et théologie (4 ans d'études à l'ICP, Paris)
-- Développement full-stack et programmation compétitive
-- Cybersécurité (CTF, bug bounty, etc.)
+Les fils principaux ont chacun leur page : [IA](/fr/ai/), [Quantique](/fr/quantum/), [Maths](/fr/math/), [Code](/fr/code/) et [Art](/fr/art/). Ce qui n'y trouve pas sa place :
 
-## 💎 Intérêts artistiques
-
-- Designer joaillier diplômé (École Boulle), pièces sur [Instagram](https://www.instagram.com/cochinjewellery/)
-- Musique, sortie sous le nom de [Small Warm Things](https://open.spotify.com/artist/2YJ2NTqTZXZ5J1jpjpnLgU) sur Spotify
-- Modélisation 3D, impression 3D et CNC
-- Art génératif
-
-Plus sur la page [Art](/fr/art/).
+- La philosophie et la théologie, étudiées à l'Institut Catholique de Paris, d'où viennent mes conférences sur l'éthique de l'IA
+- La programmation compétitive : Project Euler et Rosalind
+- La cybersécurité : CTF et bug bounty
+- La modélisation 3D, l'impression 3D et l'usinage CNC
+- L'art génératif
 
 ## 🌏 ONG et associations
 
