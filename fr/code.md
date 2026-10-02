@@ -18,7 +18,7 @@ Privé lui aussi : frontier-lab, anciennement btlab, le laboratoire de ternaire
 
 ## 🧰 Langages
 
-Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et JavaScript côté client, SQL en dessous. Sur les dépôts publics, au poids en octets : Python loin devant, puis Lean 4, JavaScript et TypeScript avec Vue, HTML et CSS, LaTeX, des carnets Jupyter, et de plus petites quantités de Rust, Ruby, C++, CUDA et GLSL. En pratique : Python pour le code de recherche, TypeScript et Vue pour les interfaces, Lean 4 avec Mathlib pour les preuves, Rust quand la vitesse compte, CUDA quand une recherche doit tourner sur le GPU.
+Sur le travail full-stack : Ruby, Python et PHP côté serveur, TypeScript et JavaScript côté client, SQL en dessous. Sur les projets de recherche et les projets annexes, publics et privés : Python loin devant, puis Lean 4, JavaScript et TypeScript avec Vue, LaTeX et des carnets Jupyter, et de plus petites quantités de Rust, C++, CUDA et GLSL. En pratique : Python pour le code de recherche, TypeScript et Vue pour les interfaces, Lean 4 avec Mathlib pour les preuves, Rust quand la vitesse compte, CUDA quand une recherche doit tourner sur le GPU.
 
 ## 🔢 Théorie des nombres et preuve formelle
 

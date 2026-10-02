@@ -18,7 +18,7 @@ Also private: frontier-lab, formerly btlab, the balanced ternary laboratory: exa
 
 ## 🧰 Languages
 
-Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and JavaScript on the client, SQL underneath. Across the public repositories, by byte weight: Python first by far, then Lean 4, JavaScript and TypeScript with Vue, HTML and CSS, LaTeX, Jupyter notebooks, and smaller amounts of Rust, Ruby, C++, CUDA and GLSL. In practice: Python for research code, TypeScript and Vue for interfaces, Lean 4 with Mathlib for proofs, Rust when speed matters, CUDA when a search has to run on the GPU.
+Across the full-stack work: Ruby, Python and PHP on the server, TypeScript and JavaScript on the client, SQL underneath. Across the research and side projects, public and private: Python first by far, then Lean 4, JavaScript and TypeScript with Vue, LaTeX and Jupyter notebooks, and smaller amounts of Rust, C++, CUDA and GLSL. In practice: Python for research code, TypeScript and Vue for interfaces, Lean 4 with Mathlib for proofs, Rust when speed matters, CUDA when a search has to run on the GPU.
 
 ## 🔢 Number theory and formal proof
 
